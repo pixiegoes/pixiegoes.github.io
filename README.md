@@ -1,4 +1,4 @@
 pixiegoes.github.io
 ===================
 
-PixieGoes Blog, built on top of Poole + Jekyll
+PixieGoes blog, built on top of Poole + Jekyll
