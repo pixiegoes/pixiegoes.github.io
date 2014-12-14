@@ -22,6 +22,7 @@
  * Messages
  * Container
  * Masthead
+ * Banner Image
  * Content
  * Sidebar
  * Footer
@@ -55,7 +56,7 @@ html {
   font-size: 16px;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
+@media (min-width: 56em) {
   html {
     font-size: 20px;
   }
@@ -310,6 +311,7 @@ tbody tr:nth-child(odd) th {
   background-color: #fff;
   border-bottom: #f1f1f1 solid 1px;
   position: fixed;
+  z-index: 1;
 }
 .masthead-title {
   margin-top: 0;
@@ -341,7 +343,34 @@ tbody tr:nth-child(odd) th {
 .banner-top {
   width: 100%;
   height: 24rem;
-  background-color: blue;
+  background-color: #000;
+  display: block;
+}
+
+
+.banner-top p {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 56rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#bannerimg {
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 
@@ -352,7 +381,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .page-content{
-  width: 40rem;
+  max-width: 40rem;
   padding-right: 2rem;
   float: left;
 }
@@ -365,7 +394,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .sidebar {
-  width: 14rem;
+  max-width: 14rem;
   padding: 1rem;
   background-color: red;
   float: left;
@@ -379,9 +408,21 @@ tbody tr:nth-child(odd) th {
  */
 
 .footer {
-  width: 56rem;
+  width: 100%;
   padding-bottom: 1rem;
   float: left;
+}
+
+.footer-content {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 56rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: #505050;
+
 }
 
 

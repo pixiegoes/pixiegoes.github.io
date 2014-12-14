@@ -5,15 +5,12 @@
 
   <body>
 
-    <header class="masthead">
-      <h3 class="masthead-title">
-        <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
-        <small>{{ site.tagline }}</small>
-      </h3>
-    </header>
+    {% include masthead.html %}
 
-    <div class="banner-top">
-      Welcome
+    <div class="banner-top" id="bannerimg">
+      <p>
+        Welcome skmd sla sd sdl a lsadja sldasjd asljd asld alsd asl dal laks dalsd lasd lajd lsaj dlaj dls l
+      </p>
     </div>
 
     <div class="container content">
@@ -22,18 +19,20 @@
         {{ content }}
       </main>
 
-      <div class="sidebar">
-        jdn
-      </div>
-
-
-      <footer class="footer">
-        <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
-        </small>
-      </footer>
-
     </div>
 
+    <aside class="sidebar">
+      jdn
+    </aside>
+
+    {% include footer.html %}
+
+
   </body>
+
+  <script>
+    //Set top banner img
+    document.getElementById("bannerimg").style.backgroundImage =  'url(public/img/{{ page.image }})';
+  </script>
+
 </html>

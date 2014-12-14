@@ -1,19 +1,22 @@
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        		/to/:categories/:title
+relative_permalinks: 	true
 
 # Setup
-title:            Pixie Goes
-tagline:          'Lorem Ipsum'
-url:              http://pixiegoes.com
-paginate:         1
-baseurl:          /
+title:            		Pixie Goes
+tagline:          		'Lorem Ipsum'
+url:              		http://pixiegoes.com
+paginate:         		1
+baseurl:          		/
 author:
-  name:           Ceara Pixie
-  url:            https://twitter.com/pixiegoes
-  email:          pixiegoes@gmail.com
+name:           		Ceara Pixie
+url: 					https://twitter.com/pixiegoes
+email:					pixiegoes@gmail.com
 
 # Custom vars
-version:          1.0.0
+version:          		1.0.0
 github:
-  repo:           https://github.com/pixiegoes/pixiegoes.github.io
+  repo:					https://github.com/pixiegoes/pixiegoes.github.io
+
+# Images
+banner_image:			sorrento.jpg
