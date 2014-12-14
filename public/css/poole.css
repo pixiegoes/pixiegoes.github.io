@@ -22,6 +22,9 @@
  * Messages
  * Container
  * Masthead
+ * Content
+ * Sidebar
+ * Footer
  * Posts and pages
  * Pagination
  * Reverse layout
@@ -287,12 +290,12 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 56rem;
+  padding-top: 4rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
 }
-
 
 /*
  * Masthead
@@ -301,11 +304,12 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
+  width: 100%;
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
   background-color: #fff;
   border-bottom: #f1f1f1 solid 1px;
+  position: fixed;
 }
 .masthead-title {
   margin-top: 0;
@@ -326,6 +330,58 @@ tbody tr:nth-child(odd) th {
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
+}
+
+/*
+ * Banner Image
+ *
+ * Large image on homepage
+ */
+
+.banner-top {
+  width: 100%;
+  height: 24rem;
+  background-color: blue;
+}
+
+
+/*
+ * Content
+ *
+ * Page Content
+ */
+
+.page-content{
+  width: 40rem;
+  padding-right: 2rem;
+  float: left;
+}
+
+
+/*
+ * Sidebar
+ *
+ * Bio Sidebar
+ */
+
+.sidebar {
+  width: 14rem;
+  padding: 1rem;
+  background-color: red;
+  float: left;
+}
+
+
+/*
+ * Footer
+ *
+ * Page Footer
+ */
+
+.footer {
+  width: 56rem;
+  padding-bottom: 1rem;
+  float: left;
 }
 
 

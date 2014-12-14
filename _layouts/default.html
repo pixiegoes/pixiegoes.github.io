@@ -12,17 +12,27 @@
       </h3>
     </header>
 
+    <div class="banner-top">
+      Welcome
+    </div>
+
     <div class="container content">
 
-      <main>
+      <main class="page-content">
         {{ content }}
       </main>
+
+      <div class="sidebar">
+        jdn
+      </div>
+
 
       <footer class="footer">
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
         </small>
       </footer>
+
     </div>
 
   </body>
