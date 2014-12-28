@@ -1,25 +1,43 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date_to_string }}</time>
-  {{ content }}
-</article>
+  {% include head.html %}
 
-<aside class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
+  <body>
+
+    {% include masthead.html %}
+
+    <header class="banner-top" id="bannerimg">
+      <div class="banner-top-container">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date_to_string }}</time>
+      </div>
+    </header>
+
+    <div class="container content">
+
+      <article class="post page-content">
+        {{ content }}
+      </article>
+
+
+      {% include cearabar.html %}
+
+      {% include related.html %}
+
+    </div>
+
+    
+
+    {% include footer.html %}
+
+
+  </body>
+
+  <script>
+    //Set top banner img
+    document.getElementById("bannerimg").style.backgroundImage =  'url(../../public/img/{{ page.image }})';
+  </script>
+
+</html>
+

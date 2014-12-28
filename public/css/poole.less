@@ -11,12 +11,19 @@
  *
  * Designed, built, and released under MIT license by @mdo. Learn more at
  * https://github.com/poole/poole.
+ * 
+ * Extended and customised by Kish Patel
+ * http://kishpatel.com
  */
 
 
 /*
  * Contents
  *
+ * Contants
+ * * Fonts
+ * * Color
+ * * Div Styling
  * Body resets
  * Custom type
  * Messages
@@ -31,6 +38,39 @@
  * Reverse layout
  * Themes
  */
+
+
+/*
+ * Constants
+ *
+ * Site Constants
+ */
+
+/* 
+Fonts 
+*/
+
+@pixie-font-title: "proxima-nova", Helvetica, Arial, sans-serif;
+// @pixie-font-body: "grad", Times, Georgia, sans-serif;
+
+@pixie-font-body: "proxima-nova", Helvetica, Arial, sans-serif;
+// @pixie-font-title: "grad", Times, Georgia, sans-serif;
+
+/* 
+Colors 
+*/
+
+// link green
+@color-link: #4CAF50;
+
+
+
+/* 
+Div Styling 
+*/
+
+// Cards
+@card-border-radius: 2px;
 
 
 /*
@@ -52,8 +92,9 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: @pixie-font-body;
   font-size: 16px;
+  font-weight: 300;
   line-height: 1.5;
 }
 @media (min-width: 56em) {
@@ -71,7 +112,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: @color-link;
   text-decoration: none;
 }
 a strong {
@@ -86,6 +127,7 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
+  font-family: @pixie-font-title;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -105,6 +147,11 @@ h3 {
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
+}
+
+.title
+{
+  font-family: @pixie-font-title;
 }
 
 /* Body text */
@@ -306,6 +353,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead {
   width: 100%;
+  top: 0px;
   padding-top:    1rem;
   padding-bottom: 1rem;
   background-color: #fff;
@@ -347,8 +395,12 @@ tbody tr:nth-child(odd) th {
   display: block;
 }
 
+.banner-top h1 {
+  color: #FFF;
+}
 
-.banner-top p {
+
+.banner-top-container {
   margin-top: 0;
   margin-bottom: 0;
   margin-left: auto;
@@ -395,9 +447,80 @@ tbody tr:nth-child(odd) th {
 
 .sidebar {
   max-width: 14rem;
+  margin-bottom: 1rem;
+  font-size: 0.7rem;
+  background-color: #FFF;
+  float: left; 
+  word-wrap: break-word;
+
+  //display: block;
+
+  -webkit-border-radius: @card-border-radius;
+  -moz-border-radius: @card-border-radius;
+  border-radius: @card-border-radius;
+
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow;
+  transition-property: box-shadow;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  
+  box-shadow: rgba(0, 0, 0, 0.20) 0px 1px 4px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px 0px;
+
+  cursor: pointer;
+
+}
+
+.sidebar:hover, .sidebar:focus, .sidebar:active {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 16px 0px;
+}
+
+.sidebar a {
+  display: block;
+  text-decoration: inherit;
+  color: inherit;
+}
+
+.sidebar p {
+  padding: 0 1rem 0 1rem;
+}
+
+.sidebar img {
+  -webkit-border-radius: @card-border-radius @card-border-radius 0px 0px;
+  -moz-border-radius: @card-border-radius @card-border-radius 0px 0px;
+  border-radius: @card-border-radius @card-border-radius 0px 0px;
+}
+
+.sidebar .read-more-pixie{
+  color: #CCC;
+  text-decoration: none;
+  text-align: center;
+
+  display: block;
   padding: 1rem;
-  background-color: red;
-  float: left;
+  margin-bottom: 0;
+  border-top: 1px solid #EEE;
+
+    -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: color;
+  transition-property: color;
+}
+
+.sidebar:hover .read-more-pixie{
+  color: @color-link;
+}
+
+.sidebar-title {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.sidebar-body {
+    line-height: 1.2rem;
 }
 
 
@@ -455,13 +578,26 @@ tbody tr:nth-child(odd) th {
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.post p {
+  line-height: 1.8rem;
 }
 
 /* Related posts */
 .related {
+  width: 100%;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
+
 }
 .related-posts {
   padding-left: 0;
@@ -494,7 +630,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: @pixie-font-title;
   color: #ccc;
   text-align: center;
 }

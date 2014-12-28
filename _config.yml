@@ -20,3 +20,6 @@ github:
 
 # Images
 banner_image:			sorrento.jpg
+
+#gems
+gems: 					['jekyll-less']
