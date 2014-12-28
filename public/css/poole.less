@@ -62,7 +62,7 @@ Colors
 
 // link green
 @color-link: #4CAF50;
-
+@color-link-hover: #388E3C;
 
 
 /* 
@@ -282,7 +282,6 @@ img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
-  border-radius: 5px;
 }
 
 /* Tables */
@@ -406,24 +405,32 @@ tbody tr:nth-child(odd) th {
   margin-left: auto;
   margin-right: auto;
   max-width: 56rem;
+  padding-top: 3rem;
   padding-left: 1rem;
   padding-right: 1rem;
   
   color: #fff;
   text-align: center;
-  font-size: 2rem;
 
   position: relative;
   top: 50%;
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
+
+}
+
+.banner-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
 }
 
 #bannerimg {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 
 
 /*
@@ -436,6 +443,10 @@ tbody tr:nth-child(odd) th {
   max-width: 40rem;
   padding-right: 2rem;
   float: left;
+}
+
+.page-content img {
+  min-width: 100%;
 }
 
 
@@ -582,6 +593,11 @@ tbody tr:nth-child(odd) th {
   text-transform: uppercase;
 }
 
+.page-date {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+}
+
 .post p {
   line-height: 1.8rem;
 }
@@ -611,8 +627,8 @@ tbody tr:nth-child(odd) th {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
-  text-decoration: none;
+  color: @color-link-hover;
+  text-decoration: underline;
 }
 .related-posts li a:hover small {
   color: inherit;
