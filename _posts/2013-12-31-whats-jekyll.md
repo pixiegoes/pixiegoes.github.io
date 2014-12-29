@@ -1,6 +1,9 @@
 ---
 layout: post
 title: What's Jekyll?
+description: Donec ullamcorper nulla non metus auctor fringilla.
+thumbnail: sorrento.jpg
+tags: [London, Shoreditch, East]
 categories: town
 ---
 

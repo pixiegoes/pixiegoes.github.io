@@ -11,18 +11,24 @@
 
     <div class="container content">
 
-      <article class="post page-content">
+      <main class="page-content">
         {{ content }}
-      </article>
 
+        {% for post in site.categories.town %}
+
+          {% include articlecell.html %}
+
+        {% endfor %}
+
+
+
+      </main>
 
       {% include cearabar.html %}
 
-      {% include related.html %}
-
     </div>
 
-    
+
 
     {% include footer.html %}
 
@@ -31,8 +37,7 @@
 
   <script>
     //Set top banner img
-    document.getElementById("bannerimg").style.backgroundImage =  'url({{ site.baseurl }}public/img/{{ page.thumbnail }})';
+    document.getElementById("bannerimg").style.backgroundImage =  'url(public/img/{{ page.image }})';
   </script>
 
 </html>
-

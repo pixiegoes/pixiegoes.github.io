@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Example content
+description: Donec ullamcorper nulla non metus auctor fringilla.
+thumbnail: sorrento.jpg
+tags: [Italy, Sorrento, Amalfi]
 ---
 
 

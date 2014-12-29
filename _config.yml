@@ -6,7 +6,7 @@ relative_permalinks: 	true
 title:            		Pixie Goes
 tagline:          		'Lorem Ipsum'
 url:              		http://pixiegoes.com
-paginate:         		1
+paginate:         		8
 baseurl:          		/
 author:
 name:           		Ceara Pixie

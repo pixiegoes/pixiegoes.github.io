@@ -24,6 +24,7 @@
  * * Fonts
  * * Color
  * * Div Styling
+ * * Animation Speed
  * Body resets
  * Custom type
  * Messages
@@ -72,6 +73,12 @@ Div Styling
 // Cards
 @card-border-radius: 2px;
 
+
+/* 
+Animation Speed
+*/
+
+@animation-speed: 0.2s;
 
 /*
  * Body resets
@@ -355,8 +362,8 @@ tbody tr:nth-child(odd) th {
   top: 0px;
   padding-top:    1rem;
   padding-bottom: 1rem;
-  background-color: #fff;
-  border-bottom: #f1f1f1 solid 1px;
+  background-color: rgba(255,255,255,0.97);
+  border-bottom: rgba(0,0,0,0.1) solid 1px;
   position: fixed;
   z-index: 1;
 }
@@ -429,6 +436,7 @@ tbody tr:nth-child(odd) th {
 #bannerimg {
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 
@@ -441,12 +449,13 @@ tbody tr:nth-child(odd) th {
 
 .page-content{
   max-width: 40rem;
+  width: 100%;
   padding-right: 2rem;
   float: left;
 }
 
 .page-content img {
-  min-width: 100%;
+  // min-width: 100%;
 }
 
 
@@ -462,7 +471,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 1rem;
   font-size: 0.7rem;
   background-color: #FFF;
-  float: left; 
+  float: right; 
   word-wrap: break-word;
 
   //display: block;
@@ -471,15 +480,15 @@ tbody tr:nth-child(odd) th {
   -moz-border-radius: @card-border-radius;
   border-radius: @card-border-radius;
 
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-property: box-shadow;
-  transition-property: box-shadow;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
+  -webkit-transition: all @animation-speed ease-out;
+  -moz-transition: all @animation-speed ease-out;
+  -ms-transition: all @animation-speed ease-out; /* IE10 is actually unprefixed */
+  -o-transition: all @animation-speed ease-out;
+  transition: all @animation-speed ease-out;
   
-  box-shadow: rgba(0, 0, 0, 0.20) 0px 1px 4px 0px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px 0px;
+  box-shadow: rgba(0, 0, 0, 0.20) 0px 1px 4px 0px;
 
   cursor: pointer;
 
@@ -487,6 +496,8 @@ tbody tr:nth-child(odd) th {
 
 .sidebar:hover, .sidebar:focus, .sidebar:active {
   -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 16px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 16px 0px;
+  -box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 16px 0px;
 }
 
 .sidebar a {
@@ -515,10 +526,11 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 0;
   border-top: 1px solid #EEE;
 
-    -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-property: color;
-  transition-property: color;
+  -webkit-transition: all @animation-speed ease-out;
+  -moz-transition: all @animation-speed ease-out;
+  -ms-transition: all @animation-speed ease-out; /* IE10 is actually unprefixed */
+  -o-transition: all @animation-speed ease-out;
+  transition: all @animation-speed ease-out;
 }
 
 .sidebar:hover .read-more-pixie{
@@ -584,13 +596,18 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
+.post-title {
+  font-size: 1.4rem;
+  font-weight: 100;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: 0.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   text-transform: uppercase;
 }
 
@@ -599,8 +616,47 @@ tbody tr:nth-child(odd) th {
   color: rgba(255, 255, 255, 0.7);
 }
 
+.post {
+  font-size: 0.8rem;
+}
+
 .post p {
   line-height: 1.8rem;
+}
+
+.post-image {
+  width: 8rem;
+  height: 6rem;
+  margin-right: 2rem;
+
+  float: left;
+
+  background-color: #f0f0f0;
+  background-position: center;
+  background-origin: border-box;
+  background-size: cover;
+
+  -webkit-border-radius: @card-border-radius;
+  -moz-border-radius: @card-border-radius;
+  border-radius: @card-border-radius;
+
+  -webkit-transition: all @animation-speed ease-out;
+  -moz-transition: all @animation-speed ease-out;
+  -ms-transition: all @animation-speed ease-out; /* IE10 is actually unprefixed */
+  -o-transition: all @animation-speed ease-out;
+  transition: all @animation-speed ease-out;
+  
+  -webkit-box-shadow: rgba(0, 0, 0, 0) 0px 1px 4px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0) 0px 1px 4px 0px;
+  box-shadow: rgba(0, 0, 0, 0) 0px 1px 4px 0px;
+
+  cursor: pointer;
+}
+
+.post-image:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 6px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 6px 0px;
+  -box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 6px 0px;
 }
 
 /* Related posts */

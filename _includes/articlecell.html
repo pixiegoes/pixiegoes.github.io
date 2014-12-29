@@ -1,0 +1,21 @@
+<article class="post">
+    
+
+    <div class="post-image" style="background-image:url(/public/img/{{ post.thumbnail }})"> 
+    </div>
+
+    <h1 class="post-title">
+
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+
+    </h1>
+
+    {{ post.description }}
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+</article>
+
+<hr>
