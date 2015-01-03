@@ -5,18 +5,21 @@
 	    <div class="post-image" style="background-image:url(/public/img/{{ post.thumbnail }})"> 
 	    </div>
 
-	    <h1 class="post-title-cell">
+	    <div class="post-info">
+		    <h3 class="post-title-cell">
 
-	      
-	        {{ post.title }}
-	      
+		      
+		        {{ post.title }}
+		      
 
-	    </h1>
+		    </h3>
 
-	    {{ post.description }}
+		    <p class="post-description-cell">
+		    	{{ post.description }}
+			</p>
 
-	    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-    
+		    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    	</div>
     </a>
 </article>
 
