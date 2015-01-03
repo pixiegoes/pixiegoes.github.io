@@ -54,8 +54,9 @@ Fonts
 @pixie-font-title: "proxima-nova", Helvetica, Arial, sans-serif;
 // @pixie-font-body: "grad", Times, Georgia, sans-serif;
 
-@pixie-font-body: "proxima-nova", Helvetica, Arial, sans-serif;
-// @pixie-font-title: "grad", Times, Georgia, sans-serif;
+@pixie-font-body: "expo-serif-pro", Times, Georgia, sans-serif;
+// @pixie-font-title: "expo-serif-pro", Times, Georgia, sans-serif;
+
 
 /* 
 Colors 
@@ -344,7 +345,7 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 56rem;
-  padding-top: 4rem;
+  padding-top: 2rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -359,28 +360,40 @@ tbody tr:nth-child(odd) th {
 
 .masthead {
   width: 100%;
-  top: 0px;
-  padding-top:    1rem;
-  padding-bottom: 1rem;
+  height: 3rem;
   background-color: rgba(255,255,255,0.97);
   border-bottom: rgba(0,0,0,0.1) solid 1px;
-  position: fixed;
-  z-index: 1;
 }
-.masthead-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 56rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  color: #505050;
 
+.masthead-container
+{
+  max-width: 56rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+.masthead-title {
+  margin: 0;
+  padding: 0.6rem 1rem 0.6rem 1rem;
+  
+  color: #505050;
+  font-family: @pixie-font-title;
+  font-size: 1.2em;
+  border-left: 1px solid rgba(255, 255, 255, 0.0);
+  
+  float: left;
 }
 .masthead-title a {
-  color: #505050;
+  display: block;
+  text-decoration: inherit;
 }
+
+.masthead-title:hover {
+  background-color: rgba(180,180,180,0.1);
+  border-left: 1px solid #EEE;
+  border-right: 1px solid #EEE;
+}
+
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
@@ -396,13 +409,9 @@ tbody tr:nth-child(odd) th {
 
 .banner-top {
   width: 100%;
-  height: 24rem;
+  height: 20rem;
   background-color: #000;
   display: block;
-}
-
-.banner-top h1 {
-  color: #FFF;
 }
 
 
@@ -412,7 +421,7 @@ tbody tr:nth-child(odd) th {
   margin-left: auto;
   margin-right: auto;
   max-width: 56rem;
-  padding-top: 3rem;
+  padding-top: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
   
@@ -434,11 +443,26 @@ tbody tr:nth-child(odd) th {
 }
 
 #bannerimg {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: left top;
 }
 
+.banner-dates {
+  float: left;
+  margin: 0 1rem 0 1rem;
+  text-align: left;
+}
+
+.banner-dates p {
+  margin-bottom: 0;
+  font-size: 0.6rem;
+  text-transform: uppercase;
+}
 
 
 /*
@@ -486,18 +510,18 @@ tbody tr:nth-child(odd) th {
   -o-transition: all @animation-speed ease-out;
   transition: all @animation-speed ease-out;
   
-  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px 0px;
-  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px 0px;
-  box-shadow: rgba(0, 0, 0, 0.20) 0px 1px 4px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 1px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 1px 0px;
+  box-shadow: rgba(0, 0, 0, 0.20) 0px 0px 1px 0px;
 
   cursor: pointer;
 
 }
 
 .sidebar:hover, .sidebar:focus, .sidebar:active {
-  -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 16px 0px;
-  -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 16px 0px;
-  -box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 16px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 16px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 16px 0px;
+  -box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 16px 0px;
 }
 
 .sidebar a {
@@ -537,15 +561,21 @@ tbody tr:nth-child(odd) th {
   color: @color-link;
 }
 
+.read-more-pixie {
+  margin-top: 1rem;
+}
+
 .sidebar-title {
   font-size: 0.9rem;
   font-weight: bold;
-  margin-bottom: 0;
+  margin-bottom: 0.5rem;
 }
 
 .sidebar-body {
     line-height: 1.2rem;
+    margin-bottom: 0.5rem;
 }
+
 
 
 /*
@@ -582,7 +612,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  padding-bottom: 0.6rem;
 }
 
 /* Blog post or page title */
@@ -597,16 +627,31 @@ tbody tr:nth-child(odd) th {
 }
 
 .post-title {
-  font-size: 1.4rem;
-  font-weight: 100;
+  color: #FFF;
+  font-size: 2.6em;
+  font-weight: 600;
+  margin-bottom: 0;
 }
+
+.post-title-cell {
+  color: #303030;
+}
+
+.post-description {
+  font-family: @pixie-font-body;
+  font-size: 1rem;
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.7);
+  margin-top: 0;
+}
+
 
 /* Meta data line below post title */
 .post-date {
   display: block;
   margin-top: 0.5rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #CCC;
+  font-family: @pixie-font-title;
   font-size: 0.6rem;
   text-transform: uppercase;
 }
@@ -618,7 +663,18 @@ tbody tr:nth-child(odd) th {
 
 .post {
   font-size: 0.8rem;
+  cursor: pointer;
 }
+
+.post:hover {
+  opacity: 0.5;
+}
+
+.post a {
+  text-decoration: none;
+  display: block;
+}
+
 
 .post p {
   line-height: 1.8rem;
@@ -646,9 +702,9 @@ tbody tr:nth-child(odd) th {
   -o-transition: all @animation-speed ease-out;
   transition: all @animation-speed ease-out;
   
-  -webkit-box-shadow: rgba(0, 0, 0, 0) 0px 1px 4px 0px;
-  -moz-box-shadow: rgba(0, 0, 0, 0) 0px 1px 4px 0px;
-  box-shadow: rgba(0, 0, 0, 0) 0px 1px 4px 0px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 0px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 0px;
 
   cursor: pointer;
 }

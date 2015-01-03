@@ -1,21 +1,23 @@
 <article class="post">
     
+	<a href="{{ post.url }}">
 
-    <div class="post-image" style="background-image:url(/public/img/{{ post.thumbnail }})"> 
-    </div>
+	    <div class="post-image" style="background-image:url(/public/img/{{ post.thumbnail }})"> 
+	    </div>
 
-    <h1 class="post-title">
+	    <h1 class="post-title-cell">
 
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
+	      
+	        {{ post.title }}
+	      
 
-    </h1>
+	    </h1>
 
-    {{ post.description }}
+	    {{ post.description }}
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
+	    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+    
+    </a>
 </article>
 
 <hr>

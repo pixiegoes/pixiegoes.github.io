@@ -1,10 +1,16 @@
 ---
 layout: default
 title: Home
-image: sorrento.jpg
+image: indexBG.jpg
 ---
 
 <div class="posts">
+  <h2>
+    Recent posts
+  </h2>
+
+  <hr>
+
   {% for post in paginator.posts %}
     
     {% include articlecell.html %}

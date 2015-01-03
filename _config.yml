@@ -3,7 +3,7 @@ permalink:        		/to/:categories/:title
 relative_permalinks: 	true
 
 # Setup
-title:            		Pixie Goes
+title:            		Pixie goes...
 tagline:          		'Lorem Ipsum'
 url:              		http://pixiegoes.com
 paginate:         		8

@@ -6,11 +6,23 @@
       
       {% if page.layout == "post" %}
         <h1 class="post-title">{{ page.title }}</h1>
-        <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date_to_string }}</time>
+
+        <h2 class="post-description">{{ page.description }}</h2>
+
+        <div class="banner-dates">
+          <p>I wrote this</p>
+          <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date_to_string }}</time>
+        </div>
+
+        <div class="banner-dates">
+          <p>I went here</p>
+          <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.travelled }}</time>
+        </div>
+
       {% else %}
-        <p>
-        Welcome skmd sla sd sdl a lsadja sldasjd asljd asld alsd asl dal laks dalsd lasd lajd lsaj dlaj dls l
-        </p>
+        <h1 class="post-title">Pixie goes...</h1>
+
+        <h2 class="post-description">Come follow my life in stories and pictures.</h2>
       {% endif %}
 
     </div>
