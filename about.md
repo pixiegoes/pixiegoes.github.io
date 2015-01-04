@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About Pixie
+title: About
 permalink: /about/index.html
----
-
 ---
 
 Hey I’m Ceara. My friends call me Pixie. I’m 24. I live in East London. I’m training to be a teacher.

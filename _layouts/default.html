@@ -15,8 +15,6 @@
         {{ content }}
       </main>
 
-      {% include cearabar.html %}
-
     </div>
 
 
@@ -30,5 +28,9 @@
     //Set top banner img
     document.getElementById("bannerimg").style.backgroundImage =  'url(public/img/{{ page.image }})';
   </script>
+
+  {% if page.title == "Home" %}
+    <script type="text/javascript" src="{{ site.baseurl }}public/js/typed-setup.js"></script>    
+  {% endif %}
 
 </html>

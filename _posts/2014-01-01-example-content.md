@@ -7,9 +7,10 @@ description: Donec ullamcorper nulla non metus auctor fringilla.
 
 thumbnail: sorrento.jpg
 
-tags: [Italy, Sorrento, Amalfi]
-
 travelled: 02 Jan - 12 Jan 2014
+
+categories:
+tags: [Italy, Sorrento, Amalfi]
 ---
 
 

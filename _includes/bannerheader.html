@@ -19,10 +19,20 @@
           <time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.travelled }}</time>
         </div>
 
-      {% else %}
-        <h1 class="post-title">Pixie goes...</h1>
+      {% elsif page.title == "Home" %}
+        <h1 class="post-title">Pixie <span class="typed"></span></h1>
 
         <h2 class="post-description">Come follow my life in stories and pictures.</h2>
+
+      {% elsif page.title == "About" %}
+        <h1 class="post-title">About Pixie...</h1>
+
+        <h2 class="post-description">... Come follow my life in stories and pictures.</h2>
+
+      {% else %}
+        <h1 class="post-title">Hmmmm.....</h1>
+
+        <h2 class="post-description">...Come follow my life in stories and pictures.</h2>
       {% endif %}
 
     </div>

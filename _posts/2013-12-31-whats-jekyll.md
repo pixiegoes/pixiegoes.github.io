@@ -7,10 +7,10 @@ description: Donec ullamcorper nulla non metus auctor fringilla.
 
 thumbnail: sorrento.jpg
 
-tags: [London, Shoreditch, East]
-categories: town
-
 travelled: 02 Jan - 12 Jan 2014
+
+categories: town
+tags: [London, Shoreditch, East]
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
