@@ -14,6 +14,8 @@
       <article class="post post-content">
         {{ content }}
 
+        {% include cearabar.html %}
+
         {% include related.html %}
 
         {% if page.comments %}
@@ -29,15 +31,23 @@
               dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
               (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
           })();
+
+          //Resize BG
+          function resize()
+            {
+                var heights = window.innerHeight * 0.92;
+                document.getElementById("bannerimg").style.height = heights + "px";
+            }
+            resize();
+            window.onresize = function() {
+                resize();
+            };
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
         {% endif %}
 
         </article>
-
-
-      {% include cearabar.html %}
 
       </div>
 

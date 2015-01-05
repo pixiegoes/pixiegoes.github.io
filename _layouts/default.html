@@ -24,9 +24,20 @@
 
   </body>
 
-  <script>
+  <script type="text/javascript">
     //Set top banner img
     document.getElementById("bannerimg").style.backgroundImage =  'url(public/img/{{ page.image }})';
+
+    //Resize BG
+    function resize()
+            {
+                var heights = window.innerHeight * 0.75;
+                document.getElementById("bannerimg").style.height = heights + "px";
+            }
+            resize();
+            window.onresize = function() {
+                resize();
+            };
   </script>
 
   {% if page.title == "Home" %}
