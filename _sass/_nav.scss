@@ -31,24 +31,69 @@
     li {
         display: inline-block;
 
+        color: $color-white;
+        text-shadow: 0px 1px 4px rgba(0,0,0,0.50);
+        font-weight: 400;
+
+        opacity: 0.7;
+
+        cursor: pointer;
+
         a {
+            color: $color-white;
+            text-decoration: none;
+
             display: block;
             padding: 0 $spacing-unit/2 0 $spacing-unit/2;
 
-            color: $color-white;
-            text-decoration: none;
-            text-shadow: 0px 1px 4px rgba(0,0,0,0.50);
-
-            opacity: 0.7;
-
             @include transition(all 0.1s cubic-bezier(.3,0,.5,1));
+        }
 
-            &:hover {
+        &:hover {
 
-                opacity: 1;
-                text-shadow: 0px 1px 7px rgba(0,0,0,0.70);
+            opacity: 1;
+            text-shadow: 0px 1px 7px rgba(0,0,0,0.70);
+
+        }
+
+        ul {
+
+            display: none;
+
+            position: absolute; 
+            top: calc(100% - 12px);
+            margin-left: 0; 
+
+            background-color: $color-white;
+            @include border-radius(2px);
+            box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.20);
+
+
+            li {
+                display: block;
+                position: relative;
+                float: none;
+                
+                a {
+                    color: $text-color;
+                    text-shadow: none;
+
+                    &:hover {
+                       text-shadow: none;
+                       background-color: rgba($color-grey-light, 0.5); 
+                    }
+                }
+
 
             }
         }
+
+        ul.visible {
+           display: block;
+        }
+    }
+
+    li.visible {
+        opacity: 1;
     }
 }

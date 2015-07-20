@@ -6,7 +6,13 @@
 
     <ul class="site-nav-items">
 
-      <li><a href="{{ site.baseurl }}/abroad">abroad</a></li>
+      <li class="dropdown">abroad
+      		<ul class="sub-nav">
+				<li><a href="#">Country 1</a></li>
+				<li><a href="#">Country 2</a></li>
+				<li><a href="#">Country 3</a></li>
+			</ul>
+      </li>
 
       <li><a href="{{ site.baseurl }}/to-town">to town</a></li>
 
@@ -15,5 +21,27 @@
     </ul>
 
   </div>
+
+  <script type="text/javascript">
+		$(document).ready(function() {
+		    $('.dropdown').click(function() {
+		        $('.sub-nav').toggleClass('visible');
+		        $('.dropdown').toggleClass('visible');
+		    });
+
+			$('html').click(function() {
+
+				if ($('.dropdown').hasClass('visible')) {
+
+					$('.sub-nav').toggleClass('visible');
+					$('.dropdown').toggleClass('visible');
+				}
+			});
+
+			$('.dropdown').click(function(event){
+				event.stopPropagation();
+			});
+		});
+  </script>
 
 </nav>
