@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+	<hr>
+    <p class="post-date">Visited on {{ page.date | date: "%-d %b, %Y" }}</p>
+    <p class="post-date">Written on {{ page.author_date | date: "%-d %b, %Y" }}</p>
+	<hr>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>

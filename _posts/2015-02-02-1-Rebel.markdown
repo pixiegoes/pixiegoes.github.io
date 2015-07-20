@@ -1,0 +1,31 @@
+---
+layout:				post
+
+title:				"1 Rebel"
+subtitle:			Fitness
+address:			"St Mary Axe, London EC3A"
+
+date:				2015-02-02
+author_date:		2015-02-22
+
+categories:			town fitness london
+
+images_folder:		1-Rebel
+---
+
+So the past last week I've suddenly had that boost I've needed to get my arse in gear and do some proper exercise. I joined up to the gym, changed my diet so it was a little bit more healthier and bought some new gym clothes. But this did not prepare me for what happened on Saturday morning...
+
+I signed up for a complimentary session at the new gym 1Rebel at St Mary Axe (Near Liverpool Street). But they don't call themselves a gym, it's not for the average joe. Oh no it's a boutique and I must say its out of this world.
+
+Industrial chic sums up the decor. The staff are in slick, sexy black outfits which sums up their individual personalities. 
+
+The changing rooms are amazing, I felt like I was walking into a movie set, ghds, heated seating, cooling towels in a SMEG fridge and not forgetting the chrome lockers as big as my wardrobe! I felt like a celebrity, invincible and filled with confidence to take on the Reshape class, the real reason I was there.
+So in a nutshell, reshape is an intense 45min session using a treadmill and a fitness box which is full of a variety of equipment to make the body burn!! The studio is beautiful. Nightclub lighting, mirrors on every wall and a sick sound system. But all of this would have been wasted if it wasn't for the inspiring, booty shaking, bubbly and motivating fitness intructor Esmee. 
+
+{% image full /images/1-Rebel/1.jpg "test test test" %}
+
+She was so intense (in a good way) that I actually now understand the saying saying 'feel the burn', my thighs were scolding. When you were on the verge of giving up or in my case bringing up lasts nights pale ale, she reminded you why you're there. 'Detox for the retox', 'do it for the hot guy in the office, do it for the cheeky bit of chocolate.' And it motivates you all the more. When you're about to hate on her and tell her to lift the weight 'higher' up her arse she jumps on the box and makes you laugh, reminding you were all human and here for a reason. To get sexy! Then is all fun and games again. 
+
+If you're someone like me who needs that extra push, or feeling guilty about that whole pizza you ate to yourself with two beers last night, or if you want to feel like your body is on fire and leave with a beetroot face that doesn't go for hours... then this is the class gym class for you!
+
+{% image half /images/1-Rebel/6.jpg "Sweaty" %} {% image half /images/1-Rebel/5.jpg "Very sweaty"%}
