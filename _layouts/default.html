@@ -1,47 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang=en>
 
   {% include head.html %}
 
   <body>
 
-    {% include masthead.html %}
+    {% include nav.html %}
 
-    {% include bannerheader.html %}
+    {% include header.html %}
 
-    <div class="container content">
-
-      <main class="page-content">
+    <div class="page-content" id="content">
+      <div class="wrapper">
         {{ content }}
-      </main>
-
+      </div>
     </div>
-
-
 
     {% include footer.html %}
 
-
   </body>
 
-  <script type="text/javascript">
-    //Set top banner img
-    document.getElementById("bannerimg").style.backgroundImage =  'url(public/img/{{ page.image }})';
-
-    //Resize BG
-    function resize()
-            {
-                var heights = window.innerHeight * 0.75;
-                document.getElementById("bannerimg").style.height = heights + "px";
-            }
-            resize();
-            window.onresize = function() {
-                resize();
-            };
-  </script>
-
   {% if page.title == "Home" %}
-    <script type="text/javascript" src="{{ site.baseurl }}public/js/typed-setup.js"></script>    
+    <script type="text/javascript" src="{{ site.baseurl }}/js/typed-setup.js"></script>  
   {% endif %}
 
 </html>

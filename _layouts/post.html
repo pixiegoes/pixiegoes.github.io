@@ -1,65 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+---
+<div class="post">
 
-  {% include head.html %}
+  <header class="post-header">
+	<hr>
+    <p class="post-date">Visited on {{ page.date | date: "%-d %b, %Y" }}</p>
+    <p class="post-date">Written on {{ page.author_date | date: "%-d %b, %Y" }}</p>
+	<hr>
+  </header>
 
-  <body>
+  <article class="post-content">
+    {{ content }}
+  </article>
 
-    {% include masthead.html %}
-
-    {% include bannerheader.html %}
-
-    <div class="post-container content">
-
-      <article class="post post-content">
-        {{ content }}
-
-        {% include cearabar.html %}
-
-        {% include related.html %}
-
-        {% if page.comments %}
-
-        <div id="disqus_thread"></div>
-        <script type="text/javascript">
-          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-          var disqus_shortname = 'pixiegoes'; // required: replace example with your forum shortname
-
-          /* * * DON'T EDIT BELOW THIS LINE * * */
-          (function() {
-              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-          })();
-
-          //Resize BG
-          function resize()
-            {
-                var heights = window.innerHeight * 0.92;
-                document.getElementById("bannerimg").style.height = heights + "px";
-            }
-            resize();
-            window.onresize = function() {
-                resize();
-            };
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-        {% endif %}
-
-        </article>
-
-      </div>
-
-    {% include footer.html %}
-
-
-  </body>
-
-  <script>
-    //Set top banner img
-    document.getElementById("bannerimg").style.backgroundImage =  'url({{ site.baseurl }}public/img/{{ page.thumbnail }})';
-  </script>
-
-</html>
-
+</div>

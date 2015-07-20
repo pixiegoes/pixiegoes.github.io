@@ -1,5 +1,5 @@
 # Permalinks
-permalink:        		/to/:categories/:title
+permalink:        		/to/:title
 relative_permalinks: 	true
 
 # Setup
@@ -7,19 +7,17 @@ title:            		Pixie goes...
 tagline:          		'Lorem Ipsum'
 url:              		http://pixiegoes.com
 paginate:         		8
-baseurl:          		/
+baseurl:          		""
 author:
 name:           		Ceara Pixie
-url: 					https://twitter.com/pixiegoes
+twitter_username:		pixiegoes
 email:					pixiegoes@gmail.com
 
-# Custom vars
-version:          		1.0.0
-github:
-  repo:					https://github.com/pixiegoes/pixiegoes.github.io
 
-# Images
-banner_image:			sorrento.jpg
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-#gems
-gems: 					['jekyll-less']
+# Build settings
+markdown: kramdown
