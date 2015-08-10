@@ -1,4 +1,13 @@
+
+{% if page.title == "Home" %}
+
+<div class="page-header" style="background-image: url(/images/home-bg.jpg);">
+
+{% else %}
+
 <div class="page-header" style="background-image: url(/images/{{ page.images_folder}}/cover.jpg);">
+
+{% endif %}
 
 	<div class="page-header-overlay">
 

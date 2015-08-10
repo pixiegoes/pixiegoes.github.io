@@ -98,12 +98,14 @@ a {
     text-decoration: none;
     font-weight: 400;
 
+    @include transition(all 0.1s cubic-bezier(.3,0,.5,1));
+
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
-        color: $text-color;
+        color: darken($brand-color, 10%);
         text-decoration: underline;
     }
 }
@@ -114,12 +116,31 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $color-grey;
-    border-left: 4px solid $color-grey;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    color: $color-grey-light;
+    font-size: 2.4rem;
     letter-spacing: -1px;
     font-style: italic;
+    //border-left: 1px solid $color-grey-light;
+    margin-top: $spacing-unit*2;
+    margin-bottom: $spacing-unit*2;
+    text-align: center;
+
+    p {
+        padding: 0 !important;
+        line-height: 3.8rem !important;
+    }
+
+    p:before {
+        content: "\“";
+        font-family: serif !important;
+        font-size: 4rem !important;
+    }
+
+    p:after {
+        content: "\”";
+        font-family: serif !important;
+        font-size: 4rem !important;
+    }
 
     > :last-child {
         margin-bottom: 0;

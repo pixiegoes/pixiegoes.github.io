@@ -29,6 +29,7 @@
 		font-family: $font-sans;
 		margin-bottom: 0;
 		line-height: 5.4rem;
+		text-shadow: 0px 1px 4px rgba(0,0,0,0.40);
 
 		@include media-query($on-palm) {
             font-size: 3rem;
