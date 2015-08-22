@@ -34,4 +34,4 @@ If you're someone like me who needs that extra push, or feeling guilty about tha
 
 {% image half /images/1-Rebel/6.jpg "Sweaty" %} {% image half /images/1-Rebel/5.jpg "Very sweaty"%}
 
-Test test
+Test
