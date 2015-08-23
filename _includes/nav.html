@@ -9,7 +9,7 @@
       <li class="dropdown">abroad
       		<ul class="sub-nav">
 				{% for country in site.categories %}
-					<li><a href="{{ site.baseurl }}/to/{{country | first | capitalize}}">{{country | first | capitalize}}</a></li>
+					<li><a href="{{ site.baseurl }}/to/{{country | first }}">{{country | first | capitalize}}</a></li>
 				{% endfor %}
 			</ul>
       </li>
