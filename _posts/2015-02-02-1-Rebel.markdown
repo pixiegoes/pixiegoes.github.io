@@ -1,14 +1,20 @@
 ---
 layout:				post
 
-title:				"1 Rebel"
+title:				1 Rebel
 subtitle:			Fitness
-address:			"St Mary Axe, London EC3A"
+address:			St Mary Axe, London EC3A
 
 date:				2015-02-02
 author_date:		2015-02-22
 
-categories:			town fitness london
+categories: 
+- England
+
+tags:			
+- town
+- fitness
+- london
 
 images_folder:		1-Rebel
 ---
@@ -33,5 +39,3 @@ When you were on the verge of giving up or in my case bringing up lasts nights p
 If you're someone like me who needs that extra push, or feeling guilty about that whole pizza you ate to yourself with two beers last night, or if you want to feel like your body is on fire and leave with a beetroot face that doesn't go for hours... then this is the class gym class for you!
 
 {% image half /images/1-Rebel/6.jpg "Sweaty" %} {% image half /images/1-Rebel/5.jpg "Very sweaty"%}
-
-Test

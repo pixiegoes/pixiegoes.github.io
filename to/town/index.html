@@ -1,0 +1,19 @@
+---
+
+layout: 			default
+
+title: 				...to town
+subtitle:			My adventures through London
+
+---
+
+
+<ul class="post-list">
+
+	{% for post in site.tags.town %}
+
+		{% include post-cell.html %}
+
+	{% endfor %}
+
+</ul>

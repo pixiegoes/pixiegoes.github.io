@@ -8,13 +8,13 @@
 
       <li class="dropdown">abroad
       		<ul class="sub-nav">
-				<li><a href="#">Country 1</a></li>
-				<li><a href="#">Country 2</a></li>
-				<li><a href="#">Country 3</a></li>
+				{% for country in site.categories %}
+					<li><a href="{{ site.baseurl }}/to/{{country | first | capitalize}}">{{country | first | capitalize}}</a></li>
+				{% endfor %}
 			</ul>
       </li>
 
-      <li><a href="{{ site.baseurl }}/to-town">to town</a></li>
+      <li><a href="{{ site.baseurl }}/to/town">to town</a></li>
 
       <li><a href="{{ site.baseurl }}/on-about-herself">about</a></li>
 

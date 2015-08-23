@@ -39,35 +39,37 @@
 
         cursor: pointer;
 
+        @include transition(all 0.15s cubic-bezier(0.5,0.5,0.5,1));
+
         a {
             color: $color-white;
             text-decoration: none;
 
             display: block;
             padding: 0 $spacing-unit/2 0 $spacing-unit/2;
-
-            @include transition(all 0.1s cubic-bezier(.3,0,.5,1));
         }
 
         &:hover {
 
             opacity: 1;
             text-shadow: 0px 1px 7px rgba(0,0,0,0.70);
-
         }
 
         ul {
 
-            display: none;
+            visibility:hidden;
+            overflow: hidden;
+            max-height: 0;
 
             position: absolute; 
-            top: calc(100% - 12px);
+            top: calc(100% - 24px);
             margin-left: 0; 
 
             background-color: $color-white;
             @include border-radius(2px);
             box-shadow: 0px 6px 12px 0px rgba(0,0,0,0.20);
 
+            @include transition(all 0.25s cubic-bezier(0.5,0.5,0.5,1.5));
 
             li {
                 display: block;
@@ -89,7 +91,10 @@
         }
 
         ul.visible {
-           display: block;
+            visibility:visible;
+            max-height: 100%;
+
+            top: calc(100% - 12px);
         }
     }
 

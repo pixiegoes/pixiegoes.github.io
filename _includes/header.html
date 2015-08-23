@@ -14,14 +14,33 @@
 		<div class="page-header-container">
 			
 			{% if page.title == "Home" %}
+
+				<!-- Homepage -->
 				
 				<h1>Pixie <span class="typed"></span></h1>
 
-			{% else %}
+			{% elsif page.id %} 
+
+				<!-- Post -->
 
 				<div class="page-header-subtitle">{{ page.subtitle }}</div>
 				<h1>{{ page.title }}</h1>
 				<div class="page-header-subtitle">{{ page.address }}</div>
+
+				
+			{% elsif page.is_category_page == true %} 
+
+				<!-- Category -->
+
+				<div class="page-header-subtitle">My adventures across</div>
+				<h1>{{ page.title | capitalize }}</h1>
+
+			{% else %}
+
+				<!-- All other pages -->
+
+				<h1>{{ page.title | capitalize }}</h1>
+				<div class="page-header-subtitle">{{ page.subtitle }}</div>
 
 			{% endif %}
 
@@ -35,6 +54,30 @@
 
 				</div>
 			</a>
+
+				<!-- Scrolling -->
+				<script type="text/javascript">
+					
+					$(function() {
+						
+						$('a[href*=#]:not([href=#])').click(function() {
+							
+							if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+								
+								var target = $(this.hash);
+								target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+								
+								if (target.length) {
+									$('html,body').animate({
+										scrollTop: target.offset().top
+									}, 400);
+									return false;
+								}
+							}
+						});
+					});
+
+				</script>
 
 		</div>
 

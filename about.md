@@ -1,11 +1,20 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: 			page
+
+title: 				...on about herself
+subtitle:			A bit about me
+permalink: 			/on-about-herself/
+
+images_folder:		About
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+**Hey I’m Ceara. My friends call me Pixie.**
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I’m 25. I live in East London. I’m training to be a teacher. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In my spare time I like to eat food (especially PIZZA), wear trainers and explore new places.
+
+This blog is an opportunity to show you where I go... be it around the world or little hidden gem in Town (London). 
+
+Come follow my life in stories and pictures...
