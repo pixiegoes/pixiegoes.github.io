@@ -79,6 +79,10 @@ footer {
     &:hover {
         @include transform(scale(1.2));
     }
+
+    &:active {
+        @include transform(scale(1.1))
+    }
 }
 
 .icon-footer-email {

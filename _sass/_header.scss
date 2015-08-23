@@ -65,9 +65,18 @@
 		height: 100%;
 		width: 120px;
 
+
+        @include transition(all 0.4s cubic-bezier(0.25, 0.5, 0, 1));
+
 		&:hover {
-			opacity: 0.6;
 			@include animation('hover 0.7s cubic-bezier(.5,0,.5,1) infinite');
+			@include transform(scale(1.2))
+		}
+
+		&:active {
+			opacity: 0.8;
+			@include transform(scale(1.0))
+
 		}
 	}
 }

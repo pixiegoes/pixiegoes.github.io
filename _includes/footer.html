@@ -10,7 +10,7 @@
 
           {% if site.twitter_username %}
           <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
+            <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
               <span class="icon-footer-twitter">
               </span>
             </a>
@@ -19,7 +19,7 @@
 
           {% if site.instagram_username %}
           <li>
-            <a href="https://instagram.com/{{ site.instagram_username }}">
+            <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank">
               <span class="icon-footer-instagram">
               </span>
             </a>
@@ -28,7 +28,7 @@
 
           {% if site.email %}
           <li>
-            <a href="mailto:{{ site.email }}">
+            <a href="mailto:{{ site.email }}" target="_blank">
               <span class="icon-footer-email">
               </span>
             </a>
@@ -36,7 +36,7 @@
           {% endif %}
 
           <li>
-            <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+            <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">
               <span class="icon-footer-rss">
               </span>
             </a>

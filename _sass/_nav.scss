@@ -55,6 +55,12 @@
             text-shadow: 0px 1px 7px rgba(0,0,0,0.70);
         }
 
+        &:active {
+
+            opacity: 0.8;
+            text-shadow: 0px 1px 5px rgba(0,0,0,0.50);
+        }
+
         ul {
 
             visibility:hidden;
@@ -75,18 +81,26 @@
                 display: block;
                 position: relative;
                 float: none;
-                
+
                 a {
                     color: $text-color;
                     text-shadow: none;
 
                     &:hover {
                        text-shadow: none;
-                       background-color: rgba($color-grey-light, 0.5); 
+                       background-color: rgba($color-grey-light, 0.7); 
+                    }
+
+                    &:active {
+                        background-color: $color-grey-light; 
                     }
                 }
 
 
+            }
+
+            &:active {
+                box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.15);
             }
         }
 
