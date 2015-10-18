@@ -87,11 +87,11 @@
 
             visibility:hidden;
             overflow: hidden;
-            max-height: 0;
 
             position: absolute; 
             top: calc(100% - 24px);
             margin-left: 0; 
+		opacity:0;
 
             background-color: $color-white;
             @include border-radius(2px);
@@ -128,9 +128,8 @@
 
         ul.visible {
             visibility:visible;
-            max-height: 200%;
-
             top: calc(100% - 12px);
+	    opacity:1;
         }
     }
 

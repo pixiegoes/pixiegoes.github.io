@@ -27,7 +27,7 @@ The apartment was based in the Buda side (Budapest is made up of two parts… Bu
 
 {% image full /images/Budapest/castle.jpg "Castle District" %}
 
-> Composed of traditional cobbled streets with authentic roman/gothic/fairytale looking buildings
+> Composed of traditional cobbled streets with authentic roman / gothic / fairytale looking buildings
 
 The Castle Hill is a **MUST**. Composed of traditional cobbled streets with authentic roman/gothic/fairytale looking buildings. Matthias Church is a beauty in itself, while Fisherman’s Bastion has winding paths and towers which gives you various stunning views of the river and Pest. 
 
@@ -38,7 +38,7 @@ Buda Castle was nice to walk around too, at night they light it up which really 
 
 {% image full /images/Budapest/chain-bridge.jpg "View of the ‘Castle’ from Chain Bridge" %}
 
-> We used foursquare to hunt down hidden gems and to discover the best tips on what to order
+> We used foursquare to hunt down hidden gems and to discover the best tips on what to order.
 
 There are lots of nice cafes around the area and you don’t have to go far to avoid the touristy prices for crappy food. We used foursquare to hunt down hidden gems and to discover the best tips on what to order. 
 
@@ -53,7 +53,7 @@ There are lots of nice cafes around the area and you don’t have to go far to a
 
 {% image full /images/Budapest/sausage.jpg %}
 
-> A hunk of bread and two gherkins all for under £3!
+> three sausages, a hunk of bread and two gherkins all for under £3!
 
 One very rainy night our FourSquare plan did fail and we had to go solo.  We headed into the first place we found that didn’t look too overpriced or have a tacky Hungarian theme. And it was a good choice! It was called [21 Magyar Vendéglő](http://21restaurant.hu/). The service was on point, the waiters were attentive, funny and really added to the experience. The wine was very good and local. But most importantly the food regained my faith in Hungarian cuisine... 
 
@@ -144,4 +144,4 @@ All dishes were impeccable, my favourite being the goulash. Again we experienced
 {% image full /images/Budapest/dessert.jpg "Some amazing dessert which I can’t name" %}
 
 
-Well that is my Budapest experience in a nutshell, well quite a big nutshell actually! Have you visited Budapest before? What was your favourite thing to do?    
+Well that is my Budapest experience in a nutshell, well quite a big nutshell actually! Have you visited Budapest before? What was your favourite thing to do?                 
