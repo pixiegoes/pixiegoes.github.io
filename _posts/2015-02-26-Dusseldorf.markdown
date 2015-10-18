@@ -20,11 +20,11 @@ tags:
 images_folder:		Dusseldorf
 ---
 
-> It was one of the best ‘fuck it’ decisions of my life!
+> It was one of the best ‘let’s just do it’ decisions of my life!
 
 As I mention a lot I frigging love booking an [Airbnb](https://www.airbnb.co.uk/c/cgummer1) and a flight myself. It's flexible and I know exactly what I'm getting. However, me and my pal Katie found a Groupon deal to Budapest and thought we'd take a walk on the wild side. We made sure it fitted in with our times off work (being a teacher is very limiting as I can only go during school holidays), and made sure there was still lots available so we had a good chance of booking the dates we wanted.
 
-However, that's not how it worked. In a nutshell it wasn't available and all the alternatives weren't in our budget apart from Düsseldorf... After 45mins of bartering with the sales rep we thought fuck it, why not, and booked our cheeky break. It was one of the best ‘fuck it’ decisions of my life!
+However, that's not how it worked. In a nutshell it wasn't available and all the alternatives weren't in our budget apart from Düsseldorf... After 45mins of bartering with the sales rep we thought why not, and booked our cheeky break. It was one of the best ‘let’s just do it’ decisions of my life!
 
 Turns out the weekend we went was Düsseldorf carnival, a three day celebration that sums up the festival season and ends on Mardi Gras. Basically, it's the German version of Rio Carnival. It was mental. 
 
