@@ -1,5 +1,6 @@
 ---
 layout:				post
+comments: 			true
 
 title:				MAC Tutorial
 subtitle:			London

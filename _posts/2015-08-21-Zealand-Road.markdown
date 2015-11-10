@@ -1,9 +1,10 @@
 ---
 layout:				post
+comments: 			true
 
 title:				Zealand Road
 subtitle:			London
-address:         391 Roman Rd, London E3 5QS
+address:         	391 Roman Rd, London E3 5QS
 date:				2015-06-13
 author_date:		2015-06-17
 

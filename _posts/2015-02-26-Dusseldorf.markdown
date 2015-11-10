@@ -1,9 +1,10 @@
 ---
 layout:				post
+comments: 			true
 
 title:				Dusseldorf 
 subtitle:			Germany
-address:         Karneval
+address:         	Karneval
 
 date:				2015-02-15
 author_date:		2015-02-26
