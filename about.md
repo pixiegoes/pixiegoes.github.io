@@ -11,7 +11,7 @@ images_folder:		About
 
 **Hey I’m Ceara. My friends call me Pixie.**
 
-I’m 25. I live in East London. I’m training to be a teacher. 
+I’m 26 and I live in East London.
 
 In my spare time I like to eat food (especially PIZZA), wear trainers and explore new places.
 
