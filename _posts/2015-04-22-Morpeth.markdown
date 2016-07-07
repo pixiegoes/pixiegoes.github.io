@@ -3,7 +3,7 @@ layout:				post
 comments: 			true
 
 title:				The Lord Morpeth
-subtitle:			Pub
+subtitle:			London
 address:			402 Old Ford Rd, London E3 5NR
 
 date:				2015-03-15
@@ -30,7 +30,7 @@ My housemate and I explored the area and found a few places that were pubs but w
 
 Out of nowhere [The Lord Morpeth](http://www.lordmorpeth.co.uk/) opened at the end of our road. And since then we have not looked back.
 
-{% image full /images/Morpeth/beer.jpg "Casual drink with pals” %}
+{% image full /images/Morpeth/beer.jpg "Casual drink with pals" %}
 
 It's everything you want in a local. Friendly staff who greet you with a warm welcome but most importantly a grin. It has alternative decor (doesn't most places now in London now) but it's not too much. a mixture of vintage classic lamps to a table that made from of an arcade video game. 
 

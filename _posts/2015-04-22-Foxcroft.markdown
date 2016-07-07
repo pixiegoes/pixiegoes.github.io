@@ -1,0 +1,47 @@
+---
+layout:				post
+comments: 			true
+
+title:				Foxcroft and Ginger
+subtitle:			London
+address:			69-89 Mile End Rd, London, E1 4TT
+
+date:				2016-03-13
+author_date:		2016-03-23
+
+categories: 
+- England
+
+tags:			
+- town
+- food
+- london
+- cafe
+- coffee
+
+images_folder:		Foxcroft
+---
+
+I have been waiting to go to this place for a long time and I can assure you it was definitely worth the wait!
+
+Me and a friend were wandering down Mile End road in search for a decent coffee, we were about to give up then **BOOM** this bad boy jumped out at us. 
+
+> ...giving us hope when the hangover is oh so too much
+
+Situated between Stepney Green and Whitechapel,  Foxcroft and Ginger is an all day cafe serving everything you need to get you through the week and kick start the weekend. The room is large and spacious, decorated with that industrial chic look that all Londoners know oh so well now. I love the big open windows at the front, letting in the natural light and air and giving us hope when the hangover is oh so too much.
+
+{% image half /images/Foxcroft/coffee.jpg "Coffee" %}
+{% image half /images/Foxcroft/cruffin.jpg "The Cruffin" %}
+
+The coffee is great, if you’re feeling jazzy like I was, there is also Aeropress and it was made to perfection. The tea comes in cute teapots and mugs. But neither of these can be drank without having one of their amazing cake selection. The **cheesecake cruffin** is a must. It has changed my world for the better. 
+
+{% image full /images/Foxcroft/cheese.jpg  %}
+
+> Eggs pop up a lot, but they were OK about substituting them for something else.
+
+Now for the food. We went for brunch and there is a decent range of options to pick from. Eggs pop up a lot, but they were OK about substituting them for something else. So don’t let that stop you.
+
+{% image half /images/Foxcroft/egg.jpg "Poached Eggs and Lavender Pancetta"  %}
+{% image half /images/Foxcroft/bacon.jpg "French Toast with Bacon" %}
+
+There was also other options such as decent looking sandwiches, burgers and then some full on mains too. They have a selection of tasty salads at the bar, and I’m not talking about a skinny salad.. I mean full on fancy veg with a bit of feta here and a jazzy dressing there. They do a beer and pizza night during the week which is on my to try list. First, beer and pizza, then to Genesis to watch a film. I’ll let you know how it goes.
