@@ -1,0 +1,104 @@
+---
+layout:				post
+comments: 			true
+
+title:				Florence
+subtitle:			Italy
+address: 
+
+date:				2016-04-01
+author_date:		2016-07-07
+
+categories: 
+- Italy
+
+tags:			
+- Italy
+- Europe
+- Firenze
+- Florence
+
+images_folder:		Florence
+---
+
+{% image full /images/Florence/river.jpg %}
+
+> Firenze... Just beautiful.
+
+I love Florence, or Firenze to the Italians. It is a beautiful city full of beautiful architecture, beautiful food, beautiful art, beautiful people, beautiful wine... Just beautiful. We visited Florence back in 2014 for a few days and we loved it so much we had to stop off for 24 hours on our return to Italy.
+
+{% image half /images/Florence/phone.jpg %}
+{% image half /images/Florence/duomo3.jpg %}
+{% image half /images/Florence/street.jpg %}
+{% image half /images/Florence/pasta.jpg %}
+
+Looking back at both trips I've summed up the **top 5 things to do in Florence**. Enjoy.
+
+**Michealangelo's David** 
+
+
+> With his pulsing veins and tensed thigh muscle...
+
+How often do you get to see a 14ft tall man standing there in his glory. If you're not sold by this small feature, then let's look at the  whole package. It was created by the great Michealangelo when he was 26! Comparing my life achievements against his right now, he has won buy a long shot. Also, this statue is over 500 years old! Was this beast of a creation designed with modern technology or printed out of a 3D printer? No! Micheal did it with his hands and toolset. 
+
+{% image full /images/Florence/david.jpg %}
+
+And finally David is an outstanding piece of art. With his pulsing veins and tensed thigh muscles, Michealangelo has really put the detail in here. Just give him a go ok. 
+
+{% image full /images/Florence/glory.jpg %}
+
+> ..the small buzz I get when I recognised a God out of Hercules!
+
+Accademia di Belle Arti di Firenze has more to offer than David. It's full of different types of art ready to be explored. I loved the Roman statues the most. The characters they represented, the stories they told and the small buzz I got when I recognised a god out of the film Hercules! If you don't have the in depth cultural and historical knowledge that I possess... Have no fear as you can just make up your own stories and they’re just as interesting.
+
+We got up super early to queue. It does go down pretty quick, but we arrived 20mins before it even opened! I would recommend you do the same as the queue can end up going up, around, down, across, left, right, left, over and through the street. And you do not want to be wasting your time queuing in such a beautiful city.
+
+**Have a Florentine Steak**
+
+> if you want to indulge to the max and experience steak heaven in your mouth.. 
+
+This blew my mind. We tried this on our second visit to Florence and I can’t believe we missed it the first time round. It is pretty pricey I’m not going to lie. So if you’re on a budget this is not the meal for you. However, if you want to indulge to the max and experience steak heaven in your mouth.. this will satisfy your needs. 
+{% image half /images/Florence/steak.jpg %}
+{% image half /images/Florence/steak2.jpg %}
+My experience of Florentine steak was at a restaurant called [Trattoria 13 Gobbi ](http://www.casatrattoria.com/en/trattoria-13-gobbi-2/) which was recommended by out AirBnb host. It was a great place, good service, really nice wine and the waiter gave some cracking recommendations. The steak came rare and juicy but crisped to perfection on thew outside.
+
+**Check out the View**
+
+Florence is a beautiful city and you cannot fully appreciate it until you’ve seen it from a height. There a lots of amazing views scattered all over the city but I’m going to tell you about my 2 favourites. 
+
+
+[Torre San Niccolò](http://www.florencewebguide.com/torre-di-san-niccolo.html) is south of the river and is a hidden gem so you’ll miss the tourists and get a banger of a view. 
+
+{% image full /images/Florence/skyline.jpg %}
+[Piazzale Michelangelo](https://www.visitflorence.com/florence-monuments/piazzale-michelangelo.html) is a bit of a mission to get to but I can assure you it is worth the effort. It is just outside the city so if you fancy a break from the hustle and bustle this is perfect for you. At the top you get to see the city in it’s glory. I would suggest going up to the top at sunset with a bottle of wine and some meat and cheese. There were musicians playing on the steps, ice-cream and some tacky merchandise to seal the deal of looking at a skyline view. There was a lovely rose garden on the side of this hill which was nice to break up the walk. At the bottom of the hill there were bars serving aperitivo and a spritz to finish off the whole experience.
+{% image full /images/Florence/kish.jpg %}
+**Have a gelato**
+
+> The bigger the better is a myth...
+
+This is a must wherever you go in Italy and there is some amazing places in Florence. Be careful though you can be tricked into trying the fake overpriced stuff and nobody’s got time for that. So how do I spot a proper gelato you ask... here are my three tips:
+
+**1.** Avoid anything that looks like mutton dressed up as lamb. If it’s jazzy, really colourful, full of fruit and looks too good to be true it probably is. They use the fancy decorations to distract your from the poor quality of their product.
+
+**2**. If it’s bright or glowing... steer clear! No natural food can light up a room. If you’re going to have a gelato you want to taste it at it’s best. Here is a simple colour guide: Banana should a light cream colour, pistachio should be a dull green and mint is... white! Yup, I know!
+
+**3.** The bigger the better is a myth... AVOID any gelato that is climbing out of the bucket as it’s probably trying to run away in shame. That isn’t a beautiful mountain of gelato my friends, it’s air. Frozen air. And why would you want to pay for that when you can breathe it for free? Real gelato goes as high as the brim and some shops even cover it with a lid to stop it from melting.
+{% image full /images/Florence/gelato.jpg %}
+So here is my favourite gelato shop in Florence,[ Antica Gelateria Fiorentina](https://www.facebook.com/AnticaGelateriaFiorentina). It’s a hidden gem and that is why you must go there. They have a variety of tradition flavours and interesting specials. I had black chocolate and it went down a treat with the pistachio. 
+
+**Have an Aperol Spritz and aperitivo**
+
+ 
+> ..the vibe is kind of ‘hipster goes on a date’.
+
+After a day of exploring there is no better way to see the evening in than with an iced cold Aperol Spritz in one hand, and some aperitivo snacks in the other. This is what the Italians do before their main dinner sitting and I love it. This is a custom you must partake in when you come to Florence. 
+
+{% image half /images/Florence/kishspritz.jpg %}
+{% image half /images/Florence/bigspritz.jpg %}
+
+Our host suggested [La Ménagère](http://www.lamenagere.it/), it’s a classy bar / restaurant and a the perfect place to have a drink to start the night. The decor is industrial chic and the vibe is kind of ‘hipster goes on a date’. It’s modern, calm and not pretentious. The cocktails were great, if you sit at the bar you can watch them be made. It’s pretty impressive. Each cocktail came with an aperitivo of olives and crisps and there was an option to order tasty looking small plates too.
+
+{% image full /images/Florence/bar.jpg %}
+
+
+Well that my Top 5 things to do in Italy. If I’ve missed anything out of my top 5, let me know!
