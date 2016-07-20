@@ -22,10 +22,10 @@ images_folder:		Florence
 ---
 
 {% image full /images/Florence/river.jpg %}
-
+I love Florence, or Firenze to the Italians.
 > Firenze... Just beautiful.
 
-I love Florence, or Firenze to the Italians. It is a beautiful city full of beautiful architecture, beautiful food, beautiful art, beautiful people, beautiful wine... Just beautiful. We visited Florence back in 2014 for a few days and we loved it so much we had to stop off for 24 hours on our return to Italy.
+It is a beautiful city full of beautiful architecture, beautiful food, beautiful art, beautiful people, beautiful wine... Just beautiful. We visited Florence back in 2014 for a few days and we loved it so much we had to stop off for 24 hours on our return to Italy.
 
 {% image half /images/Florence/phone.jpg %}
 {% image half /images/Florence/duomo3.jpg %}
@@ -60,7 +60,7 @@ We got up super early to queue. It does go down pretty quick, but we arrived 20m
 This blew my mind. We tried this on our second visit to Florence and I can’t believe we missed it the first time round. It is pretty pricey I’m not going to lie. So if you’re on a budget this is not the meal for you. However, if you want to indulge to the max and experience steak heaven in your mouth.. this will satisfy your needs. 
 {% image half /images/Florence/steak.jpg %}
 {% image half /images/Florence/steak2.jpg %}
-My experience of Florentine steak was at a restaurant called [Trattoria 13 Gobbi ](http://www.casatrattoria.com/en/trattoria-13-gobbi-2/) which was recommended by out AirBnb host. It was a great place, good service, really nice wine and the waiter gave some cracking recommendations. The steak came rare and juicy but crisped to perfection on thew outside.
+My experience of Florentine steak was at a restaurant called [Trattoria 13 Gobbi ](http://www.casatrattoria.com/en/trattoria-13-gobbi-2/) which was recommended by out AirBnb host. It was a great place, good service, really nice wine and the waiter gave some cracking recommendations. The steak came rare and juicy but crisped to perfection on the outside.
 
 **Check out the View**
 
