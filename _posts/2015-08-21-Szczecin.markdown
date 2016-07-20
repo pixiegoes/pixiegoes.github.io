@@ -4,35 +4,35 @@ comments: 			true
 
 title:				Szczecin
 subtitle:			Poland
-address: 
+address:
 
 date:				2015-10-25
 author_date:		2015-11-05
 
-categories: 
-- Poland
+categories:
+- poland
 
 tags:			
-- Poland
-- Europe
-- Szczecin
+- poland
+- europe
+- szczecin
 
-images_folder:		Szczecin
+images_folder:		szczecin
 ---
 
 Back in the summer, [Ryanair](https://beta.ryanair.com/gb/en/) had a sale on. My friends and I managed to bag flights to Szczecin for £50 return. We had no clue about the place, apart from it was in Poland and it was cheap. We were sold. So October half term we flew off to explore this little Polish gem for 3 days.
 
-We booked [AirBnb](www.airbnb.co.uk/c/cgummer1?s=8) apartments for the two nights we stayed there. They were so cheap! Working out at £10 a night each, for the two cozy, little hubs close to town. The second place even had a coffee machine, sweets and a seasonal pumpkin to welcome us and make us feel at home. 
+We booked [AirBnb](www.airbnb.co.uk/c/cgummer1) apartments for the two nights we stayed there. They were so cheap! Working out at £10 a night each, for the two cozy, little hubs close to town. The second place even had a coffee machine, sweets and a seasonal pumpkin to welcome us and make us feel at home.
 
 > Yeah I couldn’t read that either so I remembered it like this instead ‘Che movie pan po angielsku’
 
-{% image half /images/Szczecin/church.jpg "The Cathedral Basilica of St. James the Apostle" %}
+{% image half /images/szczecin/church.jpg "The Cathedral Basilica of St. James the Apostle" %}
 
-{% image half /images/Szczecin/fountain.jpg "A little hidden square we discovered" %}
+{% image half /images/szczecin/fountain.jpg "A little hidden square we discovered" %}
 
 Szczecin is a cute little town, with nice spots and points of interest. The people are friendly, welcoming and can speak pretty good English. This was great as my key phrase was ‘czy mówisz po angielsku’. Yeah I couldn’t read that either so I remembered it as this instead ‘Che movie pan po angielsku’. Anyway, it’s definitely worth a visit but, it can be conquered in a good day of exploring. As a result, we ended up going to Berlin for a cheeky trip. But I’ll talk about that in a following post.
 
- {% image full /images/Szczecin/town.jpg %}
+ {% image full /images/szczecin/town.jpg %}
 
 > ...looks cracking from a distance and sounds very grand but that’s as far as it goes.
 
@@ -42,13 +42,13 @@ We walked through Old Town looking for something to eat for breakfast. There was
 
 We had brunch at [Public Cafe](https://www.facebook.com/PublicCafePodzamcze/), very nice/modern/casual restaurant/random menu, but we liked it kind of place. I had ricotta and spinach pancakes and they were interesting, nothing like I’d had before but they did go down the treat!
 
-{% image half /images/Szczecin/public.jpg "Perfect pick me up" %}
+{% image half /images/szczecin/public.jpg "Perfect pick me up" %}
 
-{% image half /images/Szczecin/pancakes.jpg " A lot going on here but it was good" %}
+{% image half /images/szczecin/pancakes.jpg " A lot going on here but it was good" %}
 
 We walked along the waterfront and up a bridge to get a good view of the town, it was really pretty. We spotted the National Museum, it looked lovely but we never had time to visit it as it wasn’t close to where we were staying.
 
-{% image full /images/Szczecin/bridge.jpg "Look at that ***VIEW!***" %}
+{% image full /images/szczecin/bridge.jpg "Look at that ***VIEW!***" %}
 
 Then there was the Duke’s castle (the white building in the picture above), looks cracking from a distance and sounds very grand but that’s as far as it goes. We ended up walking around the outside of it and we were greeted by smashed glass, rubbish and even a cheeky human poo! I actually don’t have any pictures of this place as I wanted to leave as soon as possible!
 
@@ -56,30 +56,30 @@ Then there was the Duke’s castle (the white building in the picture above), lo
 
 We had our first night’s dinner in [Nowy Browar](http://nowybrowar.pl/), a lovely brewery near the old town.
 
-{% image half /images/Szczecin/browy.jpg "First Polish beer" %}
-{% image half /images/Szczecin/pork.jpg "A good honest meal" %}
+{% image half /images/szczecin/browy.jpg "First Polish beer" %}
+{% image half /images/szczecin/pork.jpg "A good honest meal" %}
 ***The food was incredible!*** We couldn’t read the menu so we stuck to the simple recommendations from the waiter. I had pork neck, it melted in my mouth. This was washed down beautifully with 2 litres of beer and it only came to £6.77… that includes a tip too!
 
-{% image full /images/Szczecin/view2.jpg "A view from the top" %}
+{% image full /images/szczecin/view2.jpg "A view from the top" %}
 
 I would definitely recommend going up to [Cafe 22](https://cafe22.pl/en/). It has a panoramic view of the whole town which allows you to see everything it has to offer. To make the experience even better, the cafe has a wide and wonderful selection of jazzy cakes which taste even better than they look.
 
-{% image half /images/Szczecin/view.jpg %}
-{% image half /images/Szczecin/jane.jpg %}
-{% image full /images/Szczecin/cake2.jpg "An appley, crunchy, meringuey dream"  %}
+{% image half /images/szczecin/view.jpg %}
+{% image half /images/szczecin/jane.jpg %}
+{% image full /images/szczecin/cake2.jpg "An appley, crunchy, meringuey dream"  %}
 
 >  It was traditional and homely, wooden furnishings throughout and it was dimly lit...
 
-Before we went home we had our final feast at [Harnas](http://www.restauracjaharnas.pl/), another brewery but it had more of a restaurant feel. 
+Before we went home we had our final feast at [Harnas](http://www.restauracjaharnas.pl/), another brewery but it had more of a restaurant feel.
 
-{% image full /images/Szczecin/straw.jpg %}
+{% image full /images/szczecin/straw.jpg %}
 
 It was based in Old Town and I would recommend coming here in the evening as it had a good atmosphere and friendly staff. It was traditional and homely, wooden furnishings throughout and it was dimly lit to give a fire/candle light ambience. I reckon this would be cracking at christmas. The food was good, the beer came with a straw, and the pierogies opened up our worlds’ to polish cuisine. What more could you ask for?
 
-{% image half /images/Szczecin/food.jpg "Cheese peirogie with bacon lardons"%}
-{% image half /images/Szczecin/pork2.jpg "I just couldn’t get enough of the pork!" %}
+{% image half /images/szczecin/food.jpg "Cheese peirogie with bacon lardons"%}
+{% image half /images/szczecin/pork2.jpg "I just couldn’t get enough of the pork!" %}
 
-I wouldn’t recommend Szczecin for a long trip away, it’s nice but there is not enough there to keep you amused. We ended up eating a lot, which is never a bad thing if you’re a foodie, but if that doesn’t really tickle your pickle it could be quite dull. I’m glad we had the break to Berlin in the middle of the trip, as I’m not sure what we would have done for 3 days. 
+I wouldn’t recommend Szczecin for a long trip away, it’s nice but there is not enough there to keep you amused. We ended up eating a lot, which is never a bad thing if you’re a foodie, but if that doesn’t really tickle your pickle it could be quite dull. I’m glad we had the break to Berlin in the middle of the trip, as I’m not sure what we would have done for 3 days.
 
 In my opinion, this is a place for a cheeky break or day trip from Berlin. Or you could stop off here if you’re travelling Europe with a good group of friends.
 
@@ -88,7 +88,7 @@ It’s definitely worth a visit, just make sure you go there with a purpose. So 
 **Top 5 Things to do in Szczecin**
 
 
-1. ***Walk along the waterfront and check out the view*** - The train and bus stations are close to river so do this when you get here! 
+1. ***Walk along the waterfront and check out the view*** - The train and bus stations are close to river so do this when you get here!
 
 2. ***Visit [Cafe 22](https://cafe22.pl/en/)***- It gives you a great view of the town and the cake is divine. It doesn’t open until 11, so maybe stop here for a mid-morning pick me up!
 

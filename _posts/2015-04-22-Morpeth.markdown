@@ -9,8 +9,8 @@ address:			402 Old Ford Rd, London E3 5NR
 date:				2015-03-15
 author_date:		2015-04-22
 
-categories: 
-- England
+categories:
+- england
 
 tags:			
 - town
@@ -19,7 +19,7 @@ tags:
 - pub
 - pizza
 
-images_folder:		Morpeth
+images_folder:		morpeth
 ---
 
 Since moving to London I've always wanted to live in an area where I know it well and feel part of the community. They say that us londoners are unfriendly and keep to ourselves. I am keen to prove that statement wrong! So as part of my mission to become part of the Roman Road family, I had to find my local pub right?!
@@ -30,34 +30,32 @@ My housemate and I explored the area and found a few places that were pubs but w
 
 Out of nowhere [The Lord Morpeth](http://www.lordmorpeth.co.uk/) opened at the end of our road. And since then we have not looked back.
 
-{% image full /images/Morpeth/beer.jpg "Casual drink with pals" %}
+{% image full /images/morpeth/beer.jpg "Casual drink with pals" %}
 
-It's everything you want in a local. Friendly staff who greet you with a warm welcome but most importantly a grin. It has alternative decor (doesn't most places now in London now) but it's not too much. a mixture of vintage classic lamps to a table that made from of an arcade video game. 
+It's everything you want in a local. Friendly staff who greet you with a warm welcome but most importantly a grin. It has alternative decor (doesn't most places now in London now) but it's not too much. a mixture of vintage classic lamps to a table that made from of an arcade video game.
 
 
 > ’B.O and Vag are pretty good high scorers when positioned correctly.'
 
 
 My fav feature is... Their also wide range board games. Yes I am one of those people. I love playing scrabble, however the words must include slang and swear words otherwise I would lose every time. B.O and Vag are pretty good high scorers when positioned correctly.
-{% image half /images/Morpeth/scrabble.jpg "Pub Classic" %}
-{% image half /images/Morpeth/bloody.jpg "Just the what the doctor ordered" %}
+{% image half /images/morpeth/scrabble.jpg "Pub Classic" %}
+{% image half /images/morpeth/bloody.jpg "Just the what the doctor ordered" %}
 
-If you're not sold by that they have a cracking selection of drinks. In the weeks it's a cheeky pale ale and on a Sunday it's the best Bloody Mary I've had in London so far! I think it's the touch of horseradish that does it for me! 
+If you're not sold by that they have a cracking selection of drinks. In the weeks it's a cheeky pale ale and on a Sunday it's the best Bloody Mary I've had in London so far! I think it's the touch of horseradish that does it for me!
 
 > ’The owner is from Italy so that makes it more authentic right?'
 
-And if that's still not done it for you, then this will... They serve fresh sourdough Pizza from their stone bake oven. 
-{% image half /images/Morpeth/pizza3.jpg "The 4 cheese in it’s glory" %}
-{% image half /images/Morpeth/pizza.jpg "The Morpeth. Just look at that!" %}
+And if that's still not done it for you, then this will... They serve fresh sourdough Pizza from their stone bake oven.
+{% image half /images/morpeth/pizza3.jpg "The 4 cheese in it’s glory" %}
+{% image half /images/morpeth/pizza.jpg "The Morpeth. Just look at that!" %}
 I love a pizza and this is good stuff. The owner is from Italy so that makes it more authentic right? The menu has about 10 different pizzas ranging from your classic 4 cheese to a jazzy 'Lord Morpeth' which has salami, Gorgonzola, peppers and rocket. One of my faces!
 
-I know it's a random place to visit when you're in London as it is pretty East and not many people want to leave central. However, you can make the trip worth while... It's opposite [Victoria Park](http://www.towerhamlets.gov.uk/default.aspx?page=12670), which is a beautiful park in itself and is worth a visit. 
-So hire a bike or take a leisurely walk down the canal and give the Lord Morpeth a go. 
+I know it's a random place to visit when you're in London as it is pretty East and not many people want to leave central. However, you can make the trip worth while... It's opposite [Victoria Park](http://www.towerhamlets.gov.uk/default.aspx?page=12670), which is a beautiful park in itself and is worth a visit.
+So hire a bike or take a leisurely walk down the canal and give the Lord Morpeth a go.
 
-{% image half /images/Morpeth/canal.jpg "View of the canal" %}
-{% image half /images/Morpeth/bike.jpg "Boris Bike ride" %}
-
-
-I promise it's a visit you won't regret. 
+{% image half /images/morpeth/canal.jpg "View of the canal" %}
+{% image half /images/morpeth/bike.jpg "Boris Bike ride" %}
 
 
+I promise it's a visit you won't regret.

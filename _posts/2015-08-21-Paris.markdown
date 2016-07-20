@@ -4,41 +4,41 @@ comments: 			true
 
 title:				Paris
 subtitle:			France
-address: 
+address:
 
 date:				2016-01-01
 author_date:		2015-01-17
 
-categories: 
-- France
+categories:
+- france
 
 tags:			
-- France
-- Europe
-- Paris
+- france
+- europe
+- paris
 
-images_folder:		Paris
+images_folder:		paris
 ---
 
 **5 things to do in Paris**
 
-What better way to celebrate New Year than in style and I mean French style... In Paris. 
+What better way to celebrate New Year than in style and I mean French style... In Paris.
 
 There was so much going on in this city, every district offered a memorable experience. I'm glad to say that I saw the New year in, in this **beautiful** city.
 
-{% image full /images/Paris/us.jpg "Happy New Year!" %}
+{% image full /images/paris/us.jpg "Happy New Year!" %}
 
-These are my **top 5 things to do in Paris**. They’re a mixture between living like a Parisian and being a proper tourist, the best of both worlds I would say. 
+These are my **top 5 things to do in Paris**. They’re a mixture between living like a Parisian and being a proper tourist, the best of both worlds I would say.
 
 **Have a Crepe!**
 
 > What made it even better was that it was a family run restaurant.
 
 Now, I wasn’t too bothered about this at first. To me it was just the French version of a pancakes and really... How good could they be?
-But how I was so wrong. The French crepe has changed my world for the better! 
+But how I was so wrong. The French crepe has changed my world for the better!
 Head over to the Montparnasse District which is renowned for having the best crepe restaurants in Paris. They use traditional recipes and ingredients from Brittany, making these places extra special. Buckwheat Crepes and dry apple cider is a classic mix to indulge in when you are here. My favourite place was [La Creperie de Josselin](http://www.tripadvisor.co.uk/Restaurant_Review-g187147-d718650-Reviews-La_Creperie_de_Josselin-Paris_Ile_de_France.html). It’s lunch menu was a MAIN crepe, DESSERT crepe or ice cream and a drink for 12 euro. And do not think that two crepes are enough, they're so good you're left wanting more. What made it even better was that it was a family run restaurant. The friendly and welcoming staff clearly had pride in their food and service. This is a definite must go.  
 
-{% image full /images/Paris/crepe.jpg "Just look at that lemony, buttery goodness!" %}
+{% image full /images/paris/crepe.jpg "Just look at that lemony, buttery goodness!" %}
 
 **The Louvre.. *obviously***
 
@@ -46,14 +46,14 @@ Head over to the Montparnasse District which is renowned for having the best cre
 
 Who would want to miss out on the biggest museum in the world. Not only that, its bloody beautiful. Originally built as a fort and then a home for royalty, this place is beautiful, elegant and dazzling inside **and** out. The fancy pyramids that we all know about have nothing on this.
 
-{% image full /images/Paris/luvre.jpg %}
+{% image full /images/paris/luvre.jpg %}
 
 There are over 20 rooms and 1000’s of pieces of art so you really need to plan what you want to see. Mona was cute but personally she was over-rated.The crowd of people desperately pushing to the front for a selfie really put me off too.
 A must see for me was the Arcimboldo collection. The artist we all learnt about in school then made a portrait of ourselves out of fruit and veg.
 Also, ‘**The Coronation of Napoleon**' is a must see. Not only was this painting set in the lovely city of Paris, it has a cracking tale. His mum was not actually at the ceremony but she is in the painting. How did this happen you may ask? He asked the artist if they could do a cheeky alteration. The artist agreed on one condition… they an add themselves in too. So there we have it, the first ever example of Photoshop!
 
-{% image half /images/Paris/1.jpg %}
-{% image half /images/Paris/pose.jpg %}
+{% image half /images/paris/1.jpg %}
+{% image half /images/paris/pose.jpg %}
 
 Pre-book your tickets, it costs a couple of euros more and it saves you so much time. If you want to risk it just be aware that not only is it the biggest museum in the world, it also has the biggest queue! When we arrived at 9, people were queuing for the queue to get tickets… and the wait wad 1 1/2 hours!
 
@@ -61,15 +61,15 @@ Pre-book your tickets, it costs a couple of euros more and it saves you so much 
 
 > I always thought it was black..
 
-{% image full /images/Paris/eiffel.jpg %}
+{% image full /images/paris/eiffel.jpg %}
 You cannot go to Paris and not see the Eiffel Tower! The Landmark of Love is pretty impressive, with 30 replicas around the world you need to see the original one in it’s glory. I always thought it was black... It’s actually a beigey brown and look very nice when the sun shines on it.
 
-{% image full /images/Paris/eiffel3.jpg %}
+{% image full /images/paris/eiffel3.jpg %}
 
 Make sure you go right underneath the tower and look up. The detail is impressive and you appreciate the landmark so much more. It was quite fun trying to find the exact spot in the middle too! Here’s a tip, it’s just to the right of a drain!
 
-{% image half /images/Paris/view.jpg %}
-{% image half /images/Paris/up.jpg %}
+{% image half /images/paris/view.jpg %}
+{% image half /images/paris/up.jpg %}
 
 **Wander the streets of Le Marais**
 
@@ -80,7 +80,7 @@ Le Marais which is also known as the 3rd district is an area you can easily get 
 There is an amazing food market called [Marche des Enfants Rouges](https://foursquare.com/v/march%C3%A9-des-enfants-rouges/4b75734cf964a5202c0d2ee3) which sells a variety of world cuisines. Some places have sit down areas and are under cover so you could potentially have a full on dining experience if you want.
 
 The first lunch spot I visited was  [Petit Fer à Cheval](http://www.cafeine.com/petit-fer-a-cheval) and it was definitely my favourite.It was typically French; the waiters dressed in waistcoats and white shirts, a traditional looking venue with a dark wooden interior, and it was full of local regulars which is always a good sign. I had the onion soup and it was amazing. *Gooey* cheese, *crispy* toasted french bread and *chunky* sweet onions. It’s heaven I swear!
-{% image full /images/Paris/onion.jpg "I was straight in there!" %}
+{% image full /images/paris/onion.jpg "I was straight in there!" %}
 
 If you need a break from the french cuisine then I recommend [Season.](http://www.season-paris.com/) A healthy, nutritious but **tasty** breakfast spot. The coffee is really good too so you basically are set up for the day!
 
@@ -88,22 +88,22 @@ For the perfect pick me up stop off at [Strada Cafe](http://www.stradacafe.fr/).
 
 [Rachel’s](https://www.facebook.com/RachelsParis03/) is an American style restaurant that serves a mixture of healthy and unhealthy food. I opted for the Bacon Lamb salad as I had over indulged over New Year (so much Foie Gras and red wine!). It was full of originals flavours and presented beautifully. Very satisfying. I enjoyed it so much I forgot to ordered their renowned cheesecake. So I will definitely be going back to try that.
 
-{% image full /images/Paris/salad.jpg %}
+{% image full /images/paris/salad.jpg %}
 
 **Sacré-Cœur**
 
 > of course I had to go and stand outside and sing the *Elephant Song Melody*.
 
 Climb up to the top of hill to Sacré-Cœur and you will see an amazing view of Paris. You can see for miles and it’s **FREE!** I arrived as the sun was setting and it had a relaxed vibe.
-{% image full /images/Paris/hill.jpg %}
+{% image full /images/paris/hill.jpg %}
 
 People busking on the steps as people chilled with wine and beer. Sacré-Cœur itself is very beautiful and its understandable why it stands so proud and tall on one of the highest points of the city.
 
-{% image full /images/Paris/church.jpg %}
+{% image full /images/paris/church.jpg %}
 
 I also loved this district. The small, hilly streets offering fresh produce of oysters to baguettes. Cute boutique shops and fancy cafes. I felt like I’d left the city and discovered a whole new side of Paris. There is a great cafe called [Cuillier Abbesses](http://www.cuillier.fr/). The coffee was very good and they had a tasteful selection of books to read while you sipped away. I suggest that ‘How to be a Parisian’ would be a good place to start! Also let’s not forget this is the district where the Moulin Rouge is set. Growing up watching that film, of course I had to go and stand outside and sing the *Elephant Song Melody*.
 
-{% image full /images/Paris/cover.jpg %}
+{% image full /images/paris/cover.jpg %}
 
 
-And that’s a wrap! If you’d like any more details or suggestions drop me an email or tweet! 
+And that’s a wrap! If you’d like any more details or suggestions drop me an email or tweet!

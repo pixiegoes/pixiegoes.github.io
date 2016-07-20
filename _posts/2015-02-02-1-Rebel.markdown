@@ -9,40 +9,40 @@ address:			St Mary Axe, London EC3A
 date:				2015-02-02
 author_date:		2015-02-22
 
-categories: 
-- England
+categories:
+- england
 
 tags:			
 - town
 - fitness
 - london
 
-images_folder:		1-Rebel
+images_folder:		1-rebel
 ---
 
 So in the past week I've suddenly had that boost I've needed to get my arse in gear and do some proper exercise. I joined up to the gym, changed my diet so it was a little bit healthier, and bought some new gym clothes. But this did not prepare me for what happened on Saturday morning...
 
 I signed up for a complimentary session at the new [1Rebel](http://1rebel.co.uk/){:target="_blank"} gym in [St Mary Axe](https://www.google.co.uk/maps/place/1Rebel+UK/@51.5155299,-0.0799673,15z/data=!4m2!3m1!1s0x0:0x7422832f9961200f){:target="_blank"} (Near Liverpool Street). But they don't call themselves a gym, it's not for the average joe. Oh no it's a boutique and I must say it’s out of this world.
 
-{% image half /images/1-Rebel/changing-room.jpg "The girls changing room" %}
+{% image half /images/1-rebel/changing-room.jpg "The girls changing room" %}
 
-{% image half /images/1-Rebel/fridge.jpg "Cold towels" %}
+{% image half /images/1-rebel/fridge.jpg "Cold towels" %}
 
 Industrial chic sums up the decor. The changing rooms are amazing, I felt like I was walking into a movie set. GHDs, heated seating, cooling towels in a SMEG fridge and not forgetting the chrome lockers as big as my wardrobe! I felt like a celebrity, invincible and filled with confidence to take on the Reshape class, the real reason I was there.
 
-{% image full /images/1-Rebel/reshape.jpg "Reshape" %}
+{% image full /images/1-rebel/reshape.jpg "Reshape" %}
 
 So in a nutshell, reshape is an intense 45min session using a treadmill and a fitness box which is full of a variety of equipment to make the body burn!! The studio is beautiful. Nightclub lighting, mirrors on every wall and a sick sound system.
 
-{% image full /images/1-Rebel/ride.jpg "Ride" %}
+{% image full /images/1-rebel/ride.jpg "Ride" %}
 
-But all of this would have been wasted if it wasn't for the inspiring, booty shaking, bubbly and motivating fitness intructor Esmee. She was so intense (in a good way) that I actually now understand the saying saying 'feel the burn', my thighs were scolding. 
+But all of this would have been wasted if it wasn't for the inspiring, booty shaking, bubbly and motivating fitness intructor Esmee. She was so intense (in a good way) that I actually now understand the saying saying 'feel the burn', my thighs were scolding.
 
 > Do it for the cheeky bit of chocolate
 
-When you were on the verge of giving up or in my case bringing up lasts nights pale ale, she reminded you why you're there. 'Detox for the retox', 'do it for the hot guy in the office, do it for the cheeky bit of chocolate.' And it motivates you all the more. When you're about to hate on her and tell her to lift the weight 'higher' up her arse she jumps on the box and makes you laugh, reminding you were all human and here for a reason. To get sexy! Then is all fun and games again. 
+When you were on the verge of giving up or in my case bringing up lasts nights pale ale, she reminded you why you're there. 'Detox for the retox', 'do it for the hot guy in the office, do it for the cheeky bit of chocolate.' And it motivates you all the more. When you're about to hate on her and tell her to lift the weight 'higher' up her arse she jumps on the box and makes you laugh, reminding you were all human and here for a reason. To get sexy! Then is all fun and games again.
 
 
-{% image half /images/1-Rebel/mirror.jpg "Sweaty" %} {% image half /images/1-Rebel/sweaty.jpg "Very sweaty"%}
+{% image half /images/1-rebel/mirror.jpg "Sweaty" %} {% image half /images/1-rebel/sweaty.jpg "Very sweaty"%}
 
 If you're someone like me who needs that extra push, or feeling guilty about that whole pizza you ate to yourself with two beers last night, or if you want to feel like your body is on fire and leave with a beetroot face that doesn't go for hours... then this is the class gym class for you!

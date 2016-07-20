@@ -8,41 +8,40 @@ address:         Westfield, Stratford
 date:				2015-03-13
 author_date:		2015-04-17
 
-categories: 
-- England
+categories:
+- england
 
 tags:			
 - town
 - London
 - Make up
 
-images_folder:		Mac
+images_folder:		mac
 ---
 
-I booked in for a [Mac make up tutorial session](http://www.maccosmetics.co.uk/) at [Westfields,](https://uk.westfield.com/london/stores/all-stores/mac/56229) Stratford and it was one of the best decisions I've made regarding the slap on my face. 
+I booked in for a [Mac make up tutorial session](http://www.maccosmetics.co.uk/) at [Westfields,](https://uk.westfield.com/london/stores/all-stores/mac/56229) Stratford and it was one of the best decisions I've made regarding the slap on my face.
 
 > Why do my eyebrows look like two slugs on my face, I was trying to be sharp and fierce!?
 
-First of all, I'm already a big fan of Mac cosmetics, the products are high quality, they last me a long time and they don't crack or flake off my face half way through the day. Nobody has time for that...  But most importantly they have a sales assistants there to help you make the right choices, giving you advice if you don't have a clue... Yeah that's me. Hallo. 
+First of all, I'm already a big fan of Mac cosmetics, the products are high quality, they last me a long time and they don't crack or flake off my face half way through the day. Nobody has time for that...  But most importantly they have a sales assistants there to help you make the right choices, giving you advice if you don't have a clue... Yeah that's me. Hallo.
 
-So the reason I booked in was because I have make up and I use it daily (yup like most girls). Yet I feel unconfident applying it and end up looking in the mirror and think why do I look like that? Why do I have lines in my foundation, I used a jazzy brush? Why do my eyebrows look like two slugs on my face, I was trying to be sharp and fierce!? Why does my lipstick look like I've put I’ve applied it on the tube... I really tried this time,  I did, I swear! 
+So the reason I booked in was because I have make up and I use it daily (yup like most girls). Yet I feel unconfident applying it and end up looking in the mirror and think why do I look like that? Why do I have lines in my foundation, I used a jazzy brush? Why do my eyebrows look like two slugs on my face, I was trying to be sharp and fierce!? Why does my lipstick look like I've put I’ve applied it on the tube... I really tried this time,  I did, I swear!
 
-{% image full /images/Mac/makeup.jpg "Make up plan to prompt me how to get pretty" %}
+{% image full /images/mac/makeup.jpg "Make up plan to prompt me how to get pretty" %}
 
-Anyway the list goes on as you can imagine. So booking into MAC gave me opportunity to speak 1 to 1 with a make up artist and gain some well needs skills. 
+Anyway the list goes on as you can imagine. So booking into MAC gave me opportunity to speak 1 to 1 with a make up artist and gain some well needs skills.
 
 > But the most important thing I learnt was...
 
 I learnt a lot about make up, how to use it and why. I learnt that my eyebrows are really fair so I need an expresso shade, not a warm brown which makes my eyebrows look ginger.
 
-I learnt that I'm awful at lipstick, I tried 3 times with the liner and Grace (the MA) had to sort me out. I learnt that when using blusher you do a 'c' shape on the side of your face. 
+I learnt that I'm awful at lipstick, I tried 3 times with the liner and Grace (the MA) had to sort me out. I learnt that when using blusher you do a 'c' shape on the side of your face.
 
-But the most important thing I learnt was PRACTISE! Make up application is a skill, and if you want to look like a sick bitch then you need to work for it. Just like most things ey!? 
+But the most important thing I learnt was PRACTISE! Make up application is a skill, and if you want to look like a sick bitch then you need to work for it. Just like most things ey!?
 
-{% image full /images/Mac/face.jpg "The end product." %}
+{% image full /images/mac/face.jpg "The end product." %}
 
 So I'm gunna spend a little more time on my technique and see how it goes!
 
-If you need a little bit of a confident boost in the make up department, fancy a little treat or want to learn something new, I would definitely recommend this. 
+If you need a little bit of a confident boost in the make up department, fancy a little treat or want to learn something new, I would definitely recommend this.
 It’s easy, you book in advance, pay a £50 deposit which goes towards your new make up, yo turn up and voila!
-

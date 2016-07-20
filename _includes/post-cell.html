@@ -1,7 +1,7 @@
 <li style="background-image: url(/images/{{ post.images_folder}}/cover.jpg);">
 
 	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-		
+
 		<div class="post-cell-overlay">
 
 			<div class="post-cell-content">
@@ -15,7 +15,7 @@
 				<hr>
 
 				<p>
-					{{ post.content | strip_html | truncatewords: 35 }}
+					{{ post.excerpt | markdownify | strip_html | truncatewords: 35 }}
 				</p>
 
 			</div>

@@ -4,13 +4,13 @@ comments: 			true
 
 title:				Vagabond
 subtitle:			London
-address: 
+address:
 
 date:				2016-01-24
 author_date:		2016-01-30
 
-categories: 
-- England
+categories:
+- england
 
 tags:			
 - town
@@ -18,18 +18,18 @@ tags:
 - food
 - london
 
-images_folder:		Vagabond
+images_folder:		vagabond
 ---
 
 > You’re left to your own devices to discover the many wines they have to offer.
 
 Need a place to go on a Friday night after work? Or for a Sunday afternoon to get the mind set for the week ahead? Or maybe you just want a good glass of wine… and it doesn’t matter why. I have found the place, [Vagabonds, Spitalfields](https://vagabondwines.co.uk/).
 
-{% image full /images/Vagabond/bar.jpg %}
+{% image full /images/vagabond/bar.jpg %}
 
-So the concept is you pay a £5 deposit for a card and you top it up with what ever amount you want. Then off you go! You’re left to your own devices to discover the many wines they have to offer. They are presented in self serving machines, with a cheeky description and a random fact. You eye up the one you want, insert you card and press the button. Voila, the wine is served! 
+So the concept is you pay a £5 deposit for a card and you top it up with what ever amount you want. Then off you go! You’re left to your own devices to discover the many wines they have to offer. They are presented in self serving machines, with a cheeky description and a random fact. You eye up the one you want, insert you card and press the button. Voila, the wine is served!
 
-{% image full /images/Vagabond/push.jpg %}
+{% image full /images/vagabond/push.jpg %}
 
 > One was a £20 glass of wine… slightly out of my budget.
 
@@ -38,6 +38,6 @@ Some people may not like the idea of having to serve themselves in a bar but I l
 
 The bar itself is small and intimate which gives the place a nice buzz when it’s busy. I love sitting outside with the heaters and blankets, watching people walk by in the market. The staff are very helpful too, giving advice on wine and making suggestions. One was a £20 glass of wine… slightly out of my budget.
 
-{% image full /images/Vagabond/sister.jpg %}
+{% image full /images/vagabond/sister.jpg %}
 
 **Do try the food too!** The charcuterie boards are cracking. There is a really good selection of meats and they have my favourite salami, finocchiona which has fennel in it. The sausage roll goes down well with a ‘*Vibrant*’ glass of red!
