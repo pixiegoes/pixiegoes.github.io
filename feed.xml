@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Pixie goes...</title>
+    <description>A lifestyle blog giving you tips and advice on how to make the most of London and beyond!
+</description>
+    <link>http://pixiegoes.com/</link>
+    <atom:link href="http://pixiegoes.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 22 Jan 2017 14:42:49 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Jan 2017 14:42:49 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Cafe Route</title>
+        <description>an array of colourful, inventive and mouth watering salads. On my tragic two bus, traffic fuelled journey to work I would always look forward to my morning coffee. And that would be my stop off...</description>
+        <pubDate>Fri, 29 Jul 2016 00:00:00 +0100</pubDate>
+        <link>http://pixiegoes.com/to/caferoute</link>
+        <media:thumbnail url='http://pixiegoes.com/images/route/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/caferoute</guid>
+        
+        <category>town</category>
+        
+        <category>food</category>
+        
+        <category>london</category>
+        
+        <category>cafe</category>
+        
+        <category>lunch</category>
+        
+        <category>coffee</category>
+        
+        
+        <category>england</category>
+        
+      </item>
+    
+      <item>
+        <title>Embassy East</title>
+        <description>Potentially the best full English breakfast I’ve had in London. it doesn’t have the tourist buzz… Just off a side road from Shoreditch you find Hoxton Market. A spot for the locals, nice cafes, restaurants...</description>
+        <pubDate>Sun, 03 Jul 2016 00:00:00 +0100</pubDate>
+        <link>http://pixiegoes.com/to/Embassy</link>
+        <media:thumbnail url='http://pixiegoes.com/images/embassy/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Embassy</guid>
+        
+        <category>town</category>
+        
+        <category>brunch</category>
+        
+        <category>food</category>
+        
+        <category>london</category>
+        
+        
+        <category>england</category>
+        
+      </item>
+    
+      <item>
+        <title>Pisa</title>
+        <description>A Pit-stop in Pisa. I was there for 4 hours and was satisfied with what I saw. I fancied a weekend break in Italy and looked for the cheapest flights. Pisa won by a mile!...</description>
+        <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+        <link>http://pixiegoes.com/to/Pisa</link>
+        <media:thumbnail url='http://pixiegoes.com/images/pisa/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Pisa</guid>
+        
+        <category>italy</category>
+        
+        <category>europe</category>
+        
+        <category>pisa</category>
+        
+        
+        <category>italy</category>
+        
+      </item>
+    
+      <item>
+        <title>Florence</title>
+        <description>Firenze… Just beautiful. I love Florence, or Firenze to the Italians. It is a beautiful city full of beautiful architecture, beautiful food, beautiful art, beautiful people, beautiful wine… Just beautiful. We visited Florence back in...</description>
+        <pubDate>Fri, 01 Apr 2016 00:00:00 +0100</pubDate>
+        <link>http://pixiegoes.com/to/Florence</link>
+        <media:thumbnail url='http://pixiegoes.com/images/florence/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Florence</guid>
+        
+        <category>italy</category>
+        
+        <category>europe</category>
+        
+        <category>firenze</category>
+        
+        <category>florence</category>
+        
+        
+        <category>italy</category>
+        
+      </item>
+    
+      <item>
+        <title>Foxcroft and Ginger</title>
+        <description>I have been waiting to go to this place for a long time and I can assure you it was definitely worth the wait! Me and a friend were wandering down Mile End road in...</description>
+        <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
+        <link>http://pixiegoes.com/to/Foxcroft</link>
+        <media:thumbnail url='http://pixiegoes.com/images/foxcroft/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Foxcroft</guid>
+        
+        <category>town</category>
+        
+        <category>food</category>
+        
+        <category>london</category>
+        
+        <category>cafe</category>
+        
+        <category>coffee</category>
+        
+        
+        <category>england</category>
+        
+      </item>
+    
+      <item>
+        <title>Vagabond</title>
+        <description>You’re left to your own devices to discover the many wines they have to offer. Need a place to go on a Friday night after work? Or for a Sunday afternoon to get the mind...</description>
+        <pubDate>Sun, 24 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://pixiegoes.com/to/Vagabond</link>
+        <media:thumbnail url='http://pixiegoes.com/images/vagabond/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Vagabond</guid>
+        
+        <category>town</category>
+        
+        <category>wine</category>
+        
+        <category>food</category>
+        
+        <category>london</category>
+        
+        
+        <category>england</category>
+        
+      </item>
+    
+      <item>
+        <title>Paris</title>
+        <description>5 things to do in Paris What better way to celebrate New Year than in style and I mean French style… In Paris. There was so much going on in this city, every district offered...</description>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://pixiegoes.com/to/Paris</link>
+        <media:thumbnail url='http://pixiegoes.com/images/paris/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Paris</guid>
+        
+        <category>france</category>
+        
+        <category>europe</category>
+        
+        <category>paris</category>
+        
+        
+        <category>france</category>
+        
+      </item>
+    
+      <item>
+        <title>Szczecin</title>
+        <description>Back in the summer, Ryanair had a sale on. My friends and I managed to bag flights to Szczecin for £50 return. We had no clue about the place, apart from it was in Poland...</description>
+        <pubDate>Sun, 25 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://pixiegoes.com/to/Szczecin</link>
+        <media:thumbnail url='http://pixiegoes.com/images/szczecin/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Szczecin</guid>
+        
+        <category>poland</category>
+        
+        <category>europe</category>
+        
+        <category>szczecin</category>
+        
+        
+        <category>poland</category>
+        
+      </item>
+    
+      <item>
+        <title>Budapest</title>
+        <description>This summer I went to go to Budapest for my holiday. Moving house and already having trips to Venice, Prague and Dusseldorf under the belt left me quite broke come August. As a last minute...</description>
+        <pubDate>Mon, 17 Aug 2015 00:00:00 +0100</pubDate>
+        <link>http://pixiegoes.com/to/Budapest</link>
+        <media:thumbnail url='http://pixiegoes.com/images/budapest/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Budapest</guid>
+        
+        <category>hungary</category>
+        
+        <category>europe</category>
+        
+        <category>budapest</category>
+        
+        
+        <category>hungary</category>
+        
+      </item>
+    
+      <item>
+        <title>Zealand Road</title>
+        <description>…if you’re in the area definitely drop in. Zealand Road Coffee Shop, I love this cafe. It’s small but has everything you need in a local coffee shop. I not saying this place is worth...</description>
+        <pubDate>Sat, 13 Jun 2015 00:00:00 +0100</pubDate>
+        <link>http://pixiegoes.com/to/Zealand-Road</link>
+        <media:thumbnail url='http://pixiegoes.com/images/zealand/cover.jpg'/>
+        <guid isPermaLink="true">http://pixiegoes.com/to/Zealand-Road</guid>
+        
+        <category>town</category>
+        
+        <category>london</category>
+        
+        <category>coffee</category>
+        
+        
+        <category>england</category>
+        
+      </item>
+    
+  </channel>
+</rss>
