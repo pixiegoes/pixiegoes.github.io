@@ -1,6 +1,6 @@
 $(function(){
     $(".typed").typed({
-        strings: ["drinks coffee", "eats burgers", "goes to Italy", "lives in London", "drinks pale ale", "goes to Town", "eats pizza", "rides boris bikes"],
+        strings: ["drinks coffee", "does brunch", "goes to Italy", "lives in London", "tries to exercise", "goes to Town", "loves wine", "finds hidden gems"],
         // typing speed
         typeSpeed: 40,
         // time before typing starts
