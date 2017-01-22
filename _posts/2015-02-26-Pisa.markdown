@@ -1,0 +1,97 @@
+---
+layout:				post
+comments: 			true
+
+title:				Pisa
+subtitle:			Italy
+address:
+
+date:				2016-04-01
+author_date:		2016-12-14
+
+categories:
+- italy
+
+tags:			
+- italy
+- europe
+- pisa
+
+images_folder:		pisa
+---
+
+
+**A Pit-stop in Pisa.**
+
+I was there for 4 hours and was satisfied with what I saw. I fancied a weekend break in Italy and looked for the cheapest flights. Pisa won by a mile! So we decided to fly into Pisa and stop off before we travelled on to Florence. With great connections to from the airport and train station it was a must. 
+
+{% image full /images/pisa/bus.jpg %}
+
+Our visit was short but I honestly feel like we covered as much as we needed. So here are my top 5 things to do in Pisa. 
+
+
+
+**1. Caffeine fix!**
+
+> Once you’ve slurped back your coffee, head down the windy streets
+
+When you arrive you're going to need a pick me up to prep you for your *Bish Bash Bosh* take on Pisa. We stopped at [Filter Coffee Lab](http://www.filtercoffeelab.com/it/about-us). 
+ {% image full /images/pisa/filter.jpg %}
+Perfect if your coming in from the airport via bus as you pass it to get to the main attractions. It's a nice, modern cafe serving good coffee and small snacks. The menus are clear to the English eye and the baristas are helpful, so it's not too overwhelming when you first arrive. They have seating outside where you can watch the locals wander past. 
+
+{% image full /images/pisa/coffee.jpg %}
+
+
+Once you’ve slurped back your coffee set off down the windy streets to get a feel of the town before you get to the centre. 
+
+
+**2. Panini in and around my mouth.**
+
+> ...have no fear, the flavour and quality are all there...
+
+{% image half /images/pisa/cheers.jpg %}
+{% image half /images/pisa/panini.jpg %}
+
+The best ever panini place ever?! It was exceptional. A lovely, quaint paninaria set in a small piazza with grass and shade close  by. The perfect pit stop. The place is packed full of locals and is clearly run with love. The key ingredient to keeping this authenticity going. But it’s tiny. So we ordered two paninis and two Chiantis and chilled outside on the green. The choice of cheese, meat and accompaniments are extensive but have no fear, the flavour and quality are all there. They also offer a charcuterie and cheese board which you can take out to the piazza. This place was the highlight of my Pisa trip and I assure you that you can't leave Pisa without coming here. 
+
+{% image full /images/pisa/kish.jpg %}
+
+**3 -‘The Must See’**
+ 
+> I personally thought the Baptistery was more impressive...
+
+{% image full /images/pisa/pisa2.jpg %}
+
+The great leaning tower of course- you can't come all the way to Pisa and not see The Leaning Tower of Pisa! Yeah it was impressive seeing it in it’s glory. I mean how many buildings have you seen confidently standing on a wonk? Nearly 650 years old, you must admit it’s pretty impressive. Did we climb to the top? No, it wasn’t worth it. Did we take a picture? How could we not?! 
+
+***A tip for taking snaps.*** The person who poses gets into position and DOESN’T move. The photo taker is the one who moves around to make sure the hands are in the right place. 
+
+{% image full /images/pisa/lean.jpg %}
+
+This is another enjoyable thing about the Leaning Tower of Pisa, watching people wobble around for the perfect snap.
+
+{% image half /images/pisa/dome.jpg %}
+{% image half /images/pisa/door.jpg %}
+
+The whole area itself is a must see and I feel that The Leaning Tower of Pisa takes a lot of attention away from ‘The Square of Miracles’. There is a large open green that you can walk around to enjoy the surrounding architecture. I personally thought the Baptistery was more impressive than the tower, but each to their own hey!
+
+**4 - Get Lost.**
+
+> glowing oranges and yellows, rustic reds and deep forest greens 
+
+{% image half /images/pisa/explore.jpg %}
+{% image half /images/pisa/lean2.jpg %}
+
+Pisa has lots of beautiful, open plazas to sit and relax in. The city is surprisingly calmer than I expected which gave the city a pleasant, serene vibe. I loved the colours of the buildings; glowing oranges and yellows, rustic reds and deep forest greens making you feel like you’re really away from home. We tried to find some bars to stop in but most were closed mid afternoon until 4. Which was good in end as we walked along the river and soaked up the rays instead.
+
+**5- Have a Gelato... Duh!**
+
+> ...and it was not my cup of tea.
+
+How can you go to Italy and **NOT** have a gelato? There was a lovely pace by the river and it’s on the way to the train station which is perfect if you’re getting ready to depart.
+
+{% image full /images/pisa/river.jpg %}
+
+The place is called [Gelateria De' Coltelli](http://www.decoltelli.it/) and it was packed which is always a good sign. They have a mixture of traditional flavours and some... controversial. But all are made from what is in season at the time so you know they take this gelato seriously. I sampled a sheeps cheese and pine nut gelato and... it was not my cup of tea. However, the hazelnut was delicious and unlike any other I had tried before. I ate it so quickly that I forgot to take a picture. Sorry guys!
+
+Well that’s my world win tour of Pisa. Have you been before? Have I missed anything out? Let me know!

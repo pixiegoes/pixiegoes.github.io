@@ -21,14 +21,19 @@ tags:
 images_folder:		embassy
 ---
 
-Potentially the best full English Breakfast I've had in London.
+Potentially the best full English breakfast I've had in London.
 
 > it doesn't have the tourist buzz...
 
 Just off a side road from Shoreditch you find Hoxton Market. A spot for the locals, nice cafes, restaurants and a few shop to keep you entertained. I like this area as it doesn't have the tourist buzz and it has Embassy East.
+{% image full /images/embassy/breakfast.jpg "Meat and Eggs" %}
 
-A small but cool cafe based at the end of the market. The decor is simple and the vibe is calm. I went for brunch and I'm still thinking about my breakfast 'Meat and Eggs'. It's not for the faint hearted! Crispy bacon, golden scrambled eggs, juicy tomatoes, meaty sausage, hunks of sourdough bread and my favourite part... The **HAGGIS**. It was amazing and. yes it goes beautifully with a breakfast
+A small but cool cafe based at the end of the market. The decor is simple and the vibe is calm. I went for brunch and I'm still thinking about my breakfast 'Meat and Eggs'. It's not for the faint hearted! Crispy bacon, golden scrambled eggs, juicy tomatoes, meaty sausage, hunks of sourdough bread and my favourite part... The **HAGGIS**. It was amazing and yes the **HAGGIS** goes beautifully with a breakfast.
 
-They offer a range of food ranging from cakes to crispy grapefruit to a **HAGGIS** toastie. The coffee is really good, they make a mean flat white. All produce is locally sourced which makes it even better.
+{% image half /images/embassy/grapefruit.jpg %}
+{% image half /images/embassy/eggs.jpg %}
+
+
+They offer a range of food from cakes to caremalised grapefruit to a **HAGGIS** toastie to ‘Eastern Eggs’. The coffee is really good, they make a mean flat white. All the produce is locally sourced which makes it even better.
 
 There is so much more I want to try on the menu, so I will definitely be returning. Have you been before? Is there something else I should try, let me know.
